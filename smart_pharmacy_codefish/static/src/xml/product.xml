@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="point_of_sale.template" xml:space="preserve">
+       <t t-extend="Orderline">
+        <t t-jquery='.info-list' t-operation='append'>
+             <t t-if="line.get_product().pharmacy_product_type!=='none_medical'">
+                        <li class="info">
+
+                         Dosage: <input style="width: 50px;" name='name' t-att-value='line.get_product().dosage'
+                                 placeholder='Dosage'></input>
+                            <t t-esc="line.get_product().dosage_uom"/>
+
+
+
+                        </li>
+                        <li class="info">
+                            Every:<input style="width: 50px;" name='name'
+                                 t-att-value='line.get_product().dosage_every' placeholder='Every'></input>
+                            <t t-esc="line.get_product().every_uom"/>
+                         </li>
+                        </t>
+        </t>
+    </t>
+
+    <t t-extend="PosTicket">
+        <t t-jquery='receipt-phone' t-operation='append'>
+            <t t-esc="widget.pos.company.logo"/><br />
+        </t>
+
+
+    </t>
+</templates>

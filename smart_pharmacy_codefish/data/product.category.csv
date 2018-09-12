@@ -1,0 +1,458 @@
+id,name,parent_id
+code_fish_cat_medical_1,Medical,Saleable
+code_fish_cat_medical_2,Analgesic&Anti-Inflammatory Agents,Medical
+code_fish_cat_medical_3,Antispasmodic Drugs,Medical
+code_fish_cat_medical_23,Antacid Preparations,Medical
+code_fish_cat_medical_6,Simple And MultiVitamins,Medical
+code_fish_cat_medical_7,Antimicrobials,Medical
+code_fish_cat_medical_8,Antihypertensive And Anti-Anginal Agents,Medical
+code_fish_cat_medical_9,Hair Tonic And Dandruff Preparations,Medical
+code_fish_cat_medical_10,Topical Hyperpigmentation & Scar Removing agents,Medical
+code_fish_cat_medical_11,Topical & Systemic Acne Preparations,Medical
+code_fish_cat_medical_12,Eye and Ear Preparations,Medical
+code_fish_cat_medical_13,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations",Medical
+code_fish_cat_medical_14,Laxative Preparations,Medical
+code_fish_cat_medical_15,Mouth And Throat Preparations,Medical
+code_fish_cat_medical_16,Chemotherapeutics and Drugs Affecting Immunoresponse,Medical
+code_fish_cat_medical_17,Weight Control & Appetite Suppressants,Medical
+code_fish_cat_medical_18,Antidepressant drugs,Medical
+code_fish_cat_medical_19,Cough Preparations,Medical
+code_fish_cat_medical_36,Anti-hemorrhagic and Haemostatic Agents,Medical
+code_fish_cat_medical_21,Antidiarrheal Drugs,Medical
+code_fish_cat_medical_22,Antiparkinsonian and CNS Stimulant Agents,Medical
+code_fish_cat_medical_24,drugs for Peptic and Duodenal Ulcers,Medical
+code_fish_cat_medical_26,Disinfectant Solutions and Medicated Soaps,Medical
+code_fish_cat_medical_27,Topical Preparations contain Corticosteroids,Medical
+code_fish_cat_medical_28,Anticoagulant Drugs,Medical
+code_fish_cat_medical_29,Female Sex Hormones,Medical
+code_fish_cat_medical_31,Drugs of Bronchial Asthma,Medical
+code_fish_cat_medical_32,Anti diabetic Agents,Medical
+code_fish_cat_medical_33,Anti-Fungal drugs,Medical
+code_fish_cat_medical_34,Topical Anti-Microbial Preparations,Medical
+code_fish_cat_medical_35,Anti-Epileptic Agents,Medical
+code_fish_cat_medical_37,Venous Nutrition and Blood Electrolytes,Medical
+code_fish_cat_medical_57,Drugs for Brain Disorders,Medical
+code_fish_cat_medical_40,Antihistaminic Drugs,Medical
+code_fish_cat_medical_41,Local And Systemic Anaesthetics,Medical
+code_fish_cat_medical_42,Nasal Preparations,Medical
+code_fish_cat_medical_43,Digestive Preparations,Medical
+code_fish_cat_medical_44,Preparations Of Vaginal Diseases,Medical
+code_fish_cat_medical_45,Diuretics and Potassium Preparations,Medical
+code_fish_cat_medical_46,Anti-arrhythmic Drugs,Medical
+code_fish_cat_medical_47,Oral And Rectal Prostate Preparations,Medical
+code_fish_cat_medical_48,Spastic colon drugs,Medical
+code_fish_cat_medical_49,Gout And Hyperuricemia,Medical
+code_fish_cat_medical_50,Drugs Of Migrain,Medical
+code_fish_cat_medical_51,"Pregnancy, Labor, & Lactation",Medical
+code_fish_cat_medical_52,Psychotropic Agents,Medical
+code_fish_cat_medical_53,Anthelmintic Drugs,Medical
+code_fish_cat_medical_54,Drugs Regulate GIT Motility,Medical
+code_fish_cat_medical_55,Drugs for Hepatic Disorders,Medical
+code_fish_cat_medical_56,"Androgens , Anabolics , Growth Hormones & other Sexual Tonics",Medical
+code_fish_cat_medical_58,Nocturnal Enuresis drugs,Medical
+code_fish_cat_medical_59,Baby Milk Powder And Other babies & Adults Food,Medical
+code_fish_cat_medical_61,Drugs for Circulatory Disturbances,Medical
+code_fish_cat_medical_62,Miscellaneous Drugs,Medical
+code_fish_cat_medical_63,Sterility And Infertility Agents,Medical
+code_fish_cat_medical_64,Thyroid & Antithyroid Agents,Medical
+code_fish_cat_medical_65,Antiflatulent Preparations,Medical
+code_fish_cat_medical_66,Renal and Biliary Preperations,Medical
+code_fish_cat_medical_67,Agents Used in Hypotension,Medical
+code_fish_cat_medical_68,Analgesic anti-inflammatory Drugs,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_69,Pediatric and Neoborn Antispasmodics,Antispasmodic Drugs
+code_fish_cat_medical_4,Drugs for Common Cold & Influenza,Medical
+code_fish_cat_medical_72,Vitamins used as Vision support,Simple And MultiVitamins
+code_fish_cat_medical_73,Cod ( Halbut ) Liver Oil,Simple And MultiVitamins
+code_fish_cat_medical_74,Cephalosporins,Antimicrobials
+code_fish_cat_medical_75,Multi-ingredient antihypertensives,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_76,MultiVitamins and Minerals for Adults,Simple And MultiVitamins
+code_fish_cat_medical_77,Preparations treat and protect against hair falling,Hair Tonic And Dandruff Preparations
+code_fish_cat_medical_78,Hyperpigmentation Removing agents,Topical Hyperpigmentation & Scar Removing agents
+code_fish_cat_medical_79,Topical Acne Preparations,Topical & Systemic Acne Preparations
+code_fish_cat_medical_80,Anti-oxidant + Vitamins&Minerals,Simple And MultiVitamins
+code_fish_cat_medical_81,Drops contain decongestant with or without other components,Eye and Ear Preparations
+code_fish_cat_medical_82,Skin care Preparations,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations"
+code_fish_cat_medical_83,Systemic Antiviral Agents,Antimicrobials
+code_fish_cat_medical_84,Analgesic anti-Pyretic agents,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_85,Baby care & Napkin Preparations,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations"
+code_fish_cat_medical_86,Laxatives contain Bisacodyl,Laxative Preparations
+code_fish_cat_medical_87,Preparations contain vitamin A,Simple And MultiVitamins
+code_fish_cat_medical_88,Mouth Washes and Gargles,Mouth And Throat Preparations
+code_fish_cat_medical_89,Cytotoxic Immuno-Suppressant Drugs,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_90,Herbal Tea and other Slimming Drugs,Weight Control & Appetite Suppressants
+code_fish_cat_medical_91,Other Anti-depressant Drugs,Antidepressant drugs
+code_fish_cat_medical_92,Angiotensin-2 inhibitors,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_93,Wet Cough Preparations ( A - Preparations contain a mucolytic only ),Cough Preparations
+code_fish_cat_medical_30,Drugs Of Vascular Insufficiency,Medical
+code_fish_cat_medical_95,Preparations for Glaucoma ( A - Systemic treatment of Glaucoma ),Eye and Ear Preparations
+code_fish_cat_medical_96,Rehydration Solution used during Diarrhoea,Antidiarrheal Drugs
+code_fish_cat_medical_97,Antimuscarinic antiparkinsonian agents,Antiparkinsonian and CNS Stimulant Agents
+code_fish_cat_medical_99,H2 receptor antagonists,drugs for Peptic and Duodenal Ulcers
+code_fish_cat_medical_101,Antimetabolite Chemotherapeutics,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_102,Acne Soaps,Topical & Systemic Acne Preparations
+code_fish_cat_medical_103,Medicated Soaps,Disinfectant Solutions and Medicated Soaps
+code_fish_cat_medical_104,Psoriasis Vulgaris Preparations Not contain Corticosteroids,Topical Preparations contain Corticosteroids
+code_fish_cat_medical_105,Chromium Picolinate,Weight Control & Appetite Suppressants
+code_fish_cat_medical_106,Drugs that Modify or Suppress Rhumatic disease,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_107,Preparations contain Appetizers,Simple And MultiVitamins
+code_fish_cat_medical_108,Multi-ingredient Preparations,Cough Preparations
+code_fish_cat_medical_109,Direct Anticoagulants,Anticoagulant Drugs
+code_fish_cat_medical_110,Muscle Building & Amino acid Preperation,Simple And MultiVitamins
+code_fish_cat_medical_111,QUINOLONES,Antimicrobials
+code_fish_cat_medical_112,Salbutiamine,Simple And MultiVitamins
+code_fish_cat_medical_113,Royal Jelly + Other Agents,Simple And MultiVitamins
+code_fish_cat_medical_114,Oestrogen+Progesteron,Female Sex Hormones
+code_fish_cat_medical_116,Oral and Parentral preparations,Drugs of Bronchial Asthma
+code_fish_cat_medical_117,Tonics Contain Royal Jelly+ Ginseng,Simple And MultiVitamins
+code_fish_cat_medical_118,Osteoporosis & Drugs Affecting Bone Metabolism,Simple And MultiVitamins
+code_fish_cat_medical_119,Oral Hypoglycemic Drugs ( A - Sulphonylurea Group ),Anti diabetic Agents
+code_fish_cat_medical_120,Insulin,Anti diabetic Agents
+code_fish_cat_medical_121,Systemic Anti-fungal Preparations,Anti-Fungal drugs
+code_fish_cat_medical_122,Surface anaesthetic and analgesic Eye Drops,Eye and Ear Preparations
+code_fish_cat_medical_123,Centrally-acting Analgesics,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_124,Antiviral Topical Preparations,Topical Anti-Microbial Preparations
+code_fish_cat_medical_125,Calcium Channel blockers,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_126,Centrally-acting Anti-Hypertensives,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_127,Nitrates,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_128,"Epilepsy, neuropathic pain, fibromyalgia, and generalized anxiety",Anti-Epileptic Agents
+code_fish_cat_medical_129,Preparations contain Antibiotics (Antibacterial),Topical Anti-Microbial Preparations
+code_fish_cat_medical_131,Topical preperations & Dressing for Burns & skin ulcer .,Topical Anti-Microbial Preparations
+code_fish_cat_medical_132,Drugs enhance Neuromuscular transmission,Laxative Preparations
+code_fish_cat_medical_133,Topical Anti-Fungal Preparations,Anti-Fungal drugs
+code_fish_cat_medical_134,Venous Nutrition,Venous Nutrition and Blood Electrolytes
+code_fish_cat_medical_135,ATP ( Adenosine Triphosphate ),Simple And MultiVitamins
+code_fish_cat_medical_136,Skeletal Muscle Relaxant,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_137,Adrenergic and dopaminergic agents,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_138,Cytotoxic antibiotics,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_139,Enzyme Inhibitor anti-cancer agents,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_141,Parkinsonism & Al-Zheimer's disease drugs,Antiparkinsonian and CNS Stimulant Agents
+code_fish_cat_medical_142,Aminoglycoside Antibiotics,Antimicrobials
+code_fish_cat_medical_60,Lice And Scabis Preparations,Medical
+code_fish_cat_medical_144,Vitamin B12,Simple And MultiVitamins
+code_fish_cat_medical_145,Vitamin B-complex & Related Agents,Simple And MultiVitamins
+code_fish_cat_medical_146,Multivitamins Syrup,Simple And MultiVitamins
+code_fish_cat_medical_147,Non-Sedating Long-acting Anti-histaminic,Antihistaminic Drugs
+code_fish_cat_medical_148,General & Local Injectable Anaesthetics,Local And Systemic Anaesthetics
+code_fish_cat_medical_149,Nasal Drops contain Decongestant and/or Anti-Histamine,Nasal Preparations
+code_fish_cat_medical_150,"Oral Paste , Gel & Spray",Mouth And Throat Preparations
+code_fish_cat_medical_151,Digestant Preparations,Digestive Preparations
+code_fish_cat_medical_152,Laxative - Plantago Herb,Laxative Preparations
+code_fish_cat_medical_153,SSRIs = Selective -Serotenin reuptake inhibitors,Antidepressant drugs
+code_fish_cat_medical_154,Hair Tonic preperations,Hair Tonic And Dandruff Preparations
+code_fish_cat_medical_155,SunScreen Preparations,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations"
+code_fish_cat_medical_156,Other vaginal preperation,Preparations Of Vaginal Diseases
+code_fish_cat_medical_157,Human Albumin,Venous Nutrition and Blood Electrolytes
+code_fish_cat_medical_158,Angiotensin II Receptors Antagonist,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_159,Disinfectant solutions,Disinfectant Solutions and Medicated Soaps
+code_fish_cat_medical_160,Preparations contain diuretics Combination,Diuretics and Potassium Preparations
+code_fish_cat_medical_161,Potassium-sparing diuretics,Diuretics and Potassium Preparations
+code_fish_cat_medical_162,Penicillin Group & Related Antibiotics,Antimicrobials
+code_fish_cat_medical_163,CNS Stimulant Agents,Antiparkinsonian and CNS Stimulant Agents
+code_fish_cat_medical_164,Class III ( Potassium channel blockers ).,Anti-arrhythmic Drugs
+code_fish_cat_medical_165,Aspirin with Other agents that reduce its irritating effect on the stomach,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_166,Antimalarial Agents,Antimicrobials
+code_fish_cat_medical_167,Vitamin D,Simple And MultiVitamins
+code_fish_cat_medical_168,Preparations for Glaucoma ( B - Drops used in Glaucoma ),Eye and Ear Preparations
+code_fish_cat_medical_169,Calcium + Vitamin D,Simple And MultiVitamins
+code_fish_cat_medical_170,Selective alpha-blockers,Oral And Rectal Prostate Preparations
+code_fish_cat_medical_171,Nasal Saline for Newborn Babies,Nasal Preparations
+code_fish_cat_medical_172,Garlic oil & other Combinations,Simple And MultiVitamins
+code_fish_cat_medical_173,Alkaline nasal wash powder,Nasal Preparations
+code_fish_cat_medical_174,Itopride hcl,Spastic colon drugs
+code_fish_cat_medical_175,Alkylating agents,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_176,Antihistamines with sedative effect,Antihistaminic Drugs
+code_fish_cat_medical_177,Topical Anti-histaminic agents,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations"
+code_fish_cat_medical_178,Topical Corticosteroids,Topical Preparations contain Corticosteroids
+code_fish_cat_medical_179,Allopurinol Containing Drugs,Gout And Hyperuricemia
+code_fish_cat_medical_180,Wet Cough Preparations (B-Preparations contain mucolytic + bronchodilator ),Cough Preparations
+code_fish_cat_medical_181,"Oral Triptan (Selective serotonin agonists, act on 5HT1 receptors)",Drugs Of Migrain
+code_fish_cat_medical_182,Cleansing antiseptic Vaginal Preparations,Preparations Of Vaginal Diseases
+code_fish_cat_medical_183,Herbal & other Prepn. For Prostate Inflammation & congestion,Oral And Rectal Prostate Preparations
+code_fish_cat_medical_184,Antihistamin and Other Eye Drops,Eye and Ear Preparations
+code_fish_cat_medical_185,Wheat germ oil {WGO},Simple And MultiVitamins
+code_fish_cat_medical_186,Evening Primose oil,"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_187,Anxiolytic sedatives,Psychotropic Agents
+code_fish_cat_medical_188,Dry Cough Preparation,Cough Preparations
+code_fish_cat_medical_189,Nasal Preparations contain Corticosteroid,Nasal Preparations
+code_fish_cat_medical_190,Drugs used to treat Worm infections other than Schistosoma species,Anthelmintic Drugs
+code_fish_cat_medical_191,Secnidazole,Antidiarrheal Drugs
+code_fish_cat_medical_192,Antiemetics,Drugs Regulate GIT Motility
+code_fish_cat_medical_193,Drugs that treat Migrain,Drugs Of Migrain
+code_fish_cat_medical_194,"Topical Antibiotic Powder , Aerosol & spray",Topical Anti-Microbial Preparations
+code_fish_cat_medical_195,Silymarin & Other Combination,Drugs for Hepatic Disorders
+code_fish_cat_medical_196,Other Laxative Preparations,Laxative Preparations
+code_fish_cat_medical_197,Tricyclic antidepressants,Antidepressant drugs
+code_fish_cat_medical_198,Drugs used in Motion Sickness,Antihistaminic Drugs
+code_fish_cat_medical_199,Corticosteroid with one or more Antimicrobial,Topical Preparations contain Corticosteroids
+code_fish_cat_medical_200,Diloxainde 250mg.+ Metronidazole 200mg,Antidiarrheal Drugs
+code_fish_cat_medical_201,Oral Hypoglycemic Drugs ( B - Biguanide Group ),Anti diabetic Agents
+code_fish_cat_medical_202,Preparations contain Vitamin C,Simple And MultiVitamins
+code_fish_cat_medical_203,Calcium+D+other agents,Simple And MultiVitamins
+code_fish_cat_medical_204,Vaginal Preparation Contain Metronidazole,Preparations Of Vaginal Diseases
+code_fish_cat_medical_205,Metronidazole,Antidiarrheal Drugs
+code_fish_cat_medical_206,Hormone & Related agents ( B-Cytostatic Anti-Androgen agents ),Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_207,Hormone & Related agents ( C-Cytostatic Progestogens ),Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_208,Antiemetics used during Pregnancy,Drugs Regulate GIT Motility
+code_fish_cat_medical_209,Inhalers used in bronchial asthma,Drugs of Bronchial Asthma
+code_fish_cat_medical_210,Sexual Tonics & Related Preparations,"Androgens , Anabolics , Growth Hormones & other Sexual Tonics"
+code_fish_cat_medical_211,Yeast Preparations,Simple And MultiVitamins
+code_fish_cat_medical_212,Oral & Local Anaesthetic that delay Ejaculation,"Androgens , Anabolics , Growth Hormones & other Sexual Tonics"
+code_fish_cat_medical_213,Febuxostat containing drugs,Gout And Hyperuricemia
+code_fish_cat_medical_214,Androgens & Related Drugs,"Androgens , Anabolics , Growth Hormones & other Sexual Tonics"
+code_fish_cat_medical_215,Hormonal Antagonist,Female Sex Hormones
+code_fish_cat_medical_217,Indirect Anticoagulants,Anticoagulant Drugs
+code_fish_cat_medical_218,Natural fibers - or - Natural Oils Preperations,Spastic colon drugs
+code_fish_cat_medical_219,Cyclo-Oxygenase Enzyme Inhibitors,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_220,Antidiarrhoeal Contain Nifuroxazide,Antidiarrheal Drugs
+code_fish_cat_medical_221,Immunotherapy & Vaccines,Antimicrobials
+code_fish_cat_medical_222,Proton-Pump Inhibitors,drugs for Peptic and Duodenal Ulcers
+code_fish_cat_medical_223,Neuroleptics,Psychotropic Agents
+code_fish_cat_medical_224,Preperations contain Corticosteroids only,Eye and Ear Preparations
+code_fish_cat_medical_225,Preperations contain Antibiotics only,Eye and Ear Preparations
+code_fish_cat_medical_226,Other Drops contain Antibiotic(s) Plus Corticosteroid,Eye and Ear Preparations
+code_fish_cat_medical_227,Antidiuretic Hormones,Nocturnal Enuresis drugs
+code_fish_cat_medical_228,Hormone & Related agents ( A - Cytostatic Anti-Oestrogen ),Antimicrobials
+code_fish_cat_medical_229,Baby Milk for age From 1 : 6 months,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_230,Baby Milk for age From 6 : 12 months,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_231,Low-Birth weight Formula,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_232,Recombinant human erythropoietin,Simple And MultiVitamins
+code_fish_cat_medical_233,Ocular lubricant Eye Drops,Eye and Ear Preparations
+code_fish_cat_medical_234,Ursodeoxycholic acid,Drugs for Hepatic Disorders
+code_fish_cat_medical_235,Lubricating gel,"Androgens , Anabolics , Growth Hormones & other Sexual Tonics"
+code_fish_cat_medical_236,Cardioselective Beta-blockers,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_237,Adjuvants used with general anaethetics as muscle relaxant,Local And Systemic Anaesthetics
+code_fish_cat_medical_238,Antispasmodics,Antispasmodic Drugs
+code_fish_cat_medical_239,Wax dissolving & Ear analgesic Drops,Eye and Ear Preparations
+code_fish_cat_medical_240,Macrolides and Combinations,Antimicrobials
+code_fish_cat_medical_241,Scar Removing agents,Topical Hyperpigmentation & Scar Removing agents
+code_fish_cat_medical_242,Interferon,Antimicrobials
+code_fish_cat_medical_243,MultiVitamins + Ginseng + Royal Jelly,Simple And MultiVitamins
+code_fish_cat_medical_244,Iron & Vitamins Suitable for Pregnancy,Simple And MultiVitamins
+code_fish_cat_medical_245,Other Nasal Preparations,Gout And Hyperuricemia
+code_fish_cat_medical_246,Potassium Sodium Hydrogen Citrate,Gout And Hyperuricemia
+code_fish_cat_medical_247,Drugs prevent Cardiac toxicity of doxorubicin,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_248,Pregnancy test Streps in Urine,"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_249,Preaparations Contain Nigella Sativa,Simple And MultiVitamins
+code_fish_cat_medical_250,Baby Milk for age From 1 : 4 Years,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_251,Special Milk Formula for babies suffering from Regurgitation,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_252,Lactose-Free Milk Preparations,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_253,MultiVitamins Drops For Kids & Babies,Simple And MultiVitamins
+code_fish_cat_medical_254,Drugs for Spastic Colon contain tranqulizer,Spastic colon drugs
+code_fish_cat_medical_38,Lipid Regulating Agents,Medical
+code_fish_cat_medical_256,Local Anaesthetics,Local And Systemic Anaesthetics
+code_fish_cat_medical_257,"Oral Multivitamins & Minerals for Hair , Nails & Skin",Hair Tonic And Dandruff Preparations
+code_fish_cat_medical_258,Preparations contain Vitamins A and E,Simple And MultiVitamins
+code_fish_cat_medical_259,Non cardioselective Beta-blockers,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_260,"Bactericidal , fungicidal , protozoacidal & deodorizing",Preparations Of Vaginal Diseases
+code_fish_cat_medical_261,Anti-dandruff preperations,Hair Tonic And Dandruff Preparations
+code_fish_cat_medical_263,Topical Corticosteroids With Salicylic Acid,Topical Preparations contain Corticosteroids
+code_fish_cat_medical_264,Drugs of schistosoma species,Anthelmintic Drugs
+code_fish_cat_medical_265,Magnesium,Simple And MultiVitamins
+code_fish_cat_medical_266,Bee Pollen & Pollen grains,Simple And MultiVitamins
+code_fish_cat_medical_267,Preparations Contain Calcium only,Simple And MultiVitamins
+code_fish_cat_medical_268,Laxative Enema -Used to Evacuate the Intestine,Laxative Preparations
+code_fish_cat_medical_269,Sugar Substituent Agents,Miscellaneous Drugs
+code_fish_cat_medical_270,Class I ( Sodium channel blockers ) : Group B .,Anti-arrhythmic Drugs
+code_fish_cat_medical_271,Antiseptic Lozenges,Mouth And Throat Preparations
+code_fish_cat_medical_272,Bromocriptine,Sterility And Infertility Agents
+code_fish_cat_medical_273,Oral Anti-Fungal gel & drops,Mouth And Throat Preparations
+code_fish_cat_medical_274,Loop ( High Ceiling ) Diuretics,Diuretics and Potassium Preparations
+code_fish_cat_medical_275,Antispasmodics Combination,Antispasmodic Drugs
+code_fish_cat_medical_276,Vaginal Preparations Contain Antifungal,Preparations Of Vaginal Diseases
+code_fish_cat_medical_277,Other infertility agents,Sterility And Infertility Agents
+code_fish_cat_medical_278,Drugs decrease Anti-neoplastic Toxicity,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_279,Carbimazole,Thyroid & Antithyroid Agents
+code_fish_cat_medical_280,Preparations of Flatulence & indigestion,Antiflatulent Preparations
+code_fish_cat_medical_281,Other anti-arrhythmic drugs .,Anti-arrhythmic Drugs
+code_fish_cat_medical_282,Alpha & Beta-receptors blockers,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_283,Class IV ( Calcium channel blockers ) .,Anti-arrhythmic Drugs
+code_fish_cat_medical_284,Urinary tract Antiseptic,Renal and Biliary Preperations
+code_fish_cat_medical_285,L-Carnitine,Simple And MultiVitamins
+code_fish_cat_medical_286,Chitosan,Weight Control & Appetite Suppressants
+code_fish_cat_medical_287,Chew. & Effervecent Multivitamines,Simple And MultiVitamins
+code_fish_cat_medical_288,Contraceptives Contain Progestron only,Female Sex Hormones
+code_fish_cat_medical_289,Baby Food Starting from 4 or 6 months,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_290,Anticholinergic-antidiuretics,Nocturnal Enuresis drugs
+code_fish_cat_medical_291,Drugs treat Smoking dependence ???????? ?? ?????? ?? ???????,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_292,Sulphonamides and Trimethoprime,Antimicrobials
+code_fish_cat_medical_293,Other drugs used as Cholagogues or for Biliary proplems,Renal and Biliary Preperations
+code_fish_cat_medical_294,Chloramphenicol and related drugs,Antimicrobials
+code_fish_cat_medical_295,Iron Preparation,Simple And MultiVitamins
+code_fish_cat_medical_296,Human chorionic gonadotrophine (HCG),Sterility And Infertility Agents
+code_fish_cat_medical_297,Mydriatic Eye Drops,Eye and Ear Preparations
+code_fish_cat_medical_298,Drops used for Ear only ( A-Antibiotic Ear Preparations ),Eye and Ear Preparations
+code_fish_cat_medical_299,Male+Female Sex Hormone,Female Sex Hormones
+code_fish_cat_medical_300,Progestogens,Female Sex Hormones
+code_fish_cat_medical_301,Contraceptive Pill,Female Sex Hormones
+code_fish_cat_medical_302,Urinary tract Antiseptic with antispasmodic Properties,Renal and Biliary Preperations
+code_fish_cat_medical_303,Drops used for Ear only ( B-Anti-Microbial + Corticosteroid Ear drops ),Eye and Ear Preparations
+code_fish_cat_medical_304,Drugs for ulcer due to H.Pylori,drugs for Peptic and Duodenal Ulcers
+code_fish_cat_medical_305,Magnesium citrate preperation,Renal and Biliary Preperations
+code_fish_cat_medical_306,Potassium Preparations,Diuretics and Potassium Preparations
+code_fish_cat_medical_307,Clomiphene,Sterility And Infertility Agents
+code_fish_cat_medical_308,Echinacea Extract,Simple And MultiVitamins
+code_fish_cat_medical_309,Corticosteroid with one or more Antibiotics,Eye and Ear Preparations
+code_fish_cat_medical_310,Ubiquinone,Simple And MultiVitamins
+code_fish_cat_medical_311,Colchicine Containing Drugs,Gout And Hyperuricemia
+code_fish_cat_medical_312,Nitrofurantoin,Renal and Biliary Preperations
+code_fish_cat_medical_313,Preparations for Warts & Corns,Topical Preparations contain Corticosteroids
+code_fish_cat_medical_314,Peppermint oil preperations,Spastic colon drugs
+code_fish_cat_medical_315,Mebeverine Preparations,Spastic colon drugs
+code_fish_cat_medical_316,Sulfasalazine preperations,Spastic colon drugs
+code_fish_cat_medical_317,Preparations for contact Lense,Eye and Ear Preparations
+code_fish_cat_medical_318,Other Drugs used in ttt of Nocturnal Enuresis,Nocturnal Enuresis drugs
+code_fish_cat_medical_319,Heptaminol,Agents Used in Hypotension
+code_fish_cat_medical_320,Cleansing tablets & Denture Adhesive Cream,Mouth And Throat Preparations
+code_fish_cat_medical_321,Tooth Paste for Inflammed or fragile gum,Mouth And Throat Preparations
+code_fish_cat_medical_322,Food substitents for adults,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_323,Sodium Cromoglycate & Combination,Nasal Preparations
+code_fish_cat_medical_324,Imidazoline Receptor antagonist,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_325,Vinca alkaloids & Etoposide,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_326,Biphenyl dicarboxylate - DDB,Drugs for Hepatic Disorders
+code_fish_cat_medical_327,Danazol,Sterility And Infertility Agents
+code_fish_cat_medical_328,Adjunct agents used with Chemotherapeutics & Cytotoxic agents,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_329,Leprosy agents,Antimicrobials
+code_fish_cat_medical_330,Trimebutine maleate preperations,Spastic colon drugs
+code_fish_cat_medical_331,Nandrolone ( Anabolic Hormones),"Androgens , Anabolics , Growth Hormones & other Sexual Tonics"
+code_fish_cat_medical_332,Hormone & Related agents ( D-Cytostatic Gonadotrophin-Releasing Hormone an,Chemotherapeutics and Drugs Affecting Immunoresponse
+code_fish_cat_medical_333,Topical Cream For Nipple Healing & cracked nipples,Topical Anti-Microbial Preparations
+code_fish_cat_medical_334,Topical Corticosteroids With Coal Tar And Salicylic Acid,Topical Preparations contain Corticosteroids
+code_fish_cat_medical_335,Iron Depleting Drugs,Simple And MultiVitamins
+code_fish_cat_medical_336,"Glucose, Saline and Ringer solutions",Venous Nutrition and Blood Electrolytes
+code_fish_cat_medical_337,Other Anti-inflammatory Analgesic agent,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_338,Herbal plants used as adjuvent therapy with antidiabetics to reduce blood g,Anti diabetic Agents
+code_fish_cat_medical_339,Light Kaolin + Pectin or agents of same action,Antidiarrheal Drugs
+code_fish_cat_medical_340,Senna Alkaloids,Laxative Preparations
+code_fish_cat_medical_341,Dopaminergic antiparkinsonian agents,Antiparkinsonian and CNS Stimulant Agents
+code_fish_cat_medical_342,Non Atropinic Antispasmodics,Antispasmodic Drugs
+code_fish_cat_medical_343,Tetracyclines,Antimicrobials
+code_fish_cat_medical_344,Lactulose,Laxative Preparations
+code_fish_cat_medical_345,Miscellaneous,Miscellaneous Drugs
+code_fish_cat_medical_346,Sympathomimetics,Agents Used in Hypotension
+code_fish_cat_medical_347,ToothPaste for Sensitive teeth,Mouth And Throat Preparations
+code_fish_cat_medical_348,Thyroxin,Thyroid & Antithyroid Agents
+code_fish_cat_medical_349,Prostaglandin F2 alpha ( Dinoprost ),"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_350,Antacid With H1-Receptor Antagonist ( an agent for peptic ulcer),Antacid Preparations
+code_fish_cat_medical_351,Follitropin alpha (r-h FSH),Sterility And Infertility Agents
+code_fish_cat_medical_352,Oestrogen {Oestradiol},Female Sex Hormones
+code_fish_cat_medical_353,Antibiotics ( Tuberculosis agents ),Antimicrobials
+code_fish_cat_medical_354,Laxatives contain Calcium Polycarbophil 625mg,Laxative Preparations
+code_fish_cat_medical_355,Preparations contain Vitamin E,Simple And MultiVitamins
+code_fish_cat_medical_356,Tinidazole,Antidiarrheal Drugs
+code_fish_cat_medical_357,Other antidiarrheal preparations,Antidiarrheal Drugs
+code_fish_cat_medical_358,Preparations for Menopause Symptomes,"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_359,Inhalers contain Corticosteroid only,Drugs of Bronchial Asthma
+code_fish_cat_medical_360,Other Drugs treat Peptic and Duodenal Ulcer,drugs for Peptic and Duodenal Ulcers
+code_fish_cat_medical_361,Folic acid,Simple And MultiVitamins
+code_fish_cat_medical_362,Gliptins (Dipeptidyl peptidase-4 inhibitor),Anti diabetic Agents
+code_fish_cat_medical_363,Human Menopausal Gonadotrophine HMC,Sterility And Infertility Agents
+code_fish_cat_medical_364,MultiVitamins +Minerals+Ginseng,Simple And MultiVitamins
+code_fish_cat_medical_365,Antiviral Eye Drops,Eye and Ear Preparations
+code_fish_cat_medical_366,Contrast Media,Miscellaneous Drugs
+code_fish_cat_medical_367,Growth Hormone ( anterior pituitary Hormones),"Androgens , Anabolics , Growth Hormones & other Sexual Tonics"
+code_fish_cat_medical_368,Ginseng With or without other agents,Simple And MultiVitamins
+code_fish_cat_medical_369,Drugs used to treat Hypoglycaemia,Anti diabetic Agents
+code_fish_cat_medical_370,Laxatives - Glycerin suppositories,Laxative Preparations
+code_fish_cat_medical_371,Medicated Hot & Cold Plasters,Medical
+code_fish_cat_medical_372,Green tea,Weight Control & Appetite Suppressants
+code_fish_cat_medical_373,Myometrial Relaxant agents,"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_374,Thiazides and related Diuretics,Diuretics and Potassium Preparations
+code_fish_cat_medical_375,Foot caring products,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations"
+code_fish_cat_medical_376,Preparations Help to increase Lactations,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_377,Natural Preparation Used as mild Anti-Hypertensives,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_378,Tricyclic antidepressents,Nocturnal Enuresis drugs
+code_fish_cat_medical_379,Drugs act by inhibiting GIT Peristalsis,Antidiarrheal Drugs
+code_fish_cat_medical_380,Class II ( Beta- adrenoreceptor blockers ) .,Anti-arrhythmic Drugs
+code_fish_cat_medical_381,Medicated Herbs,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_382,Miotic eye drops,Eye and Ear Preparations
+code_fish_cat_medical_383,Antidiarrhoeal Contain Lactobacillus,Antidiarrheal Drugs
+code_fish_cat_medical_384,Other Preparations Tonics or not Classifed,Simple And MultiVitamins
+code_fish_cat_medical_385,Effervescent laxatives,Laxative Preparations
+code_fish_cat_medical_386,Laxatives Contain Sodium Picosulfate,Laxative Preparations
+code_fish_cat_medical_387,Baby Food ready for feeding,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_388,Zinc in High Concentration,Simple And MultiVitamins
+code_fish_cat_medical_389,Tonic Preparations contain Royal Jelly,Simple And MultiVitamins
+code_fish_cat_medical_390,Baby Tea,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_391,Milk Powder used during diarrhoea,Baby Milk Powder And Other babies & Adults Food
+code_fish_cat_medical_392,Insect Repellent Preparations,"Topical Anti-Histamine, Diaper-Rach, Sun-Burn and Sun-Screen Preparations"
+code_fish_cat_medical_393,Opiod Antagonist,Analgesic&Anti-Inflammatory Agents
+code_fish_cat_medical_394,Peritonal Dialysis,Venous Nutrition and Blood Electrolytes
+code_fish_cat_medical_395,Vasodilator antihypertensive,Antihypertensive And Anti-Anginal Agents
+code_fish_cat_medical_396,Tamoxifen,Sterility And Infertility Agents
+code_fish_cat_medical_397,Oxytocin preperation,"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_398,Preperations for hygiene of eyelids & eyelashes,Eye and Ear Preparations
+code_fish_cat_medical_399,Intrautreal loops,Female Sex Hormones
+code_fish_cat_medical_400,Class I ( Sodium channel blockers ) : Group A .,Anti-arrhythmic Drugs
+code_fish_cat_medical_401,Natural psyllium fibers,Laxative Preparations
+code_fish_cat_medical_402,Sevelamer,Miscellaneous Drugs
+code_fish_cat_medical_403,Anti-RH positive Factor,"Pregnancy, Labor, & Lactation"
+code_fish_cat_medical_404,Class I ( Sodium channel blockers ) : Group C .,Anti-arrhythmic Drugs
+code_fish_cat_medical_405,Preparations to prevent snoring during sleeping,Nasal Preparations
+code_fish_cat_medical_406,Sorbitol,Drugs for Hepatic Disorders
+code_fish_cat_medical_407,Antidiarrhoeal Contain Chloramphenicol + Strepomycine,Antidiarrheal Drugs
+code_fish_cat_medical_408,Other Antibiotics not belong to Specific Group,Antimicrobials
+code_fish_cat_medical_409,Prepartions used for biliary gland problems,Renal and Biliary Preperations
+code_fish_cat_medical_410,Melatonin Preparations,Simple And MultiVitamins
+code_fish_cat_non_medical_1,Non Medical,Saleable
+code_fish_cat_non_medical_2,Accessories,Non Medical
+code_fish_cat_non_medical_3,hair care,Non Medical
+code_fish_cat_non_medical_4,Skin Care,Non Medical
+code_fish_cat_non_medical_5,Beauty and perfumes,Non Medical
+code_fish_cat_non_medical_6,Cold & Cough,Non Medical
+code_fish_cat_non_medical_7,Mouth care,Non Medical
+code_fish_cat_non_medical_8,Men Products,Non Medical
+code_fish_cat_non_medical_9,Body Care,Non Medical
+code_fish_cat_non_medical_10,Mother & Child,Non Medical
+code_fish_cat_non_medical_11,Vitamins-Minerals,Non Medical
+code_fish_cat_non_medical_12,Sun Care,Non Medical
+code_fish_cat_non_medical_13,Natural herbs,Non Medical
+code_fish_cat_non_medical_14,Sexual wellness,Non Medical
+code_fish_cat_non_medical_15,Weight Loss & Diet,Non Medical
+code_fish_cat_medical_5,Systemic Corticosteroids,Medical
+code_fish_cat_non_medical_20,perfumes,Non Medical
+code_fish_cat_non_medical_21,Liquid,Cold & Cough
+code_fish_cat_non_medical_22,tablet,Cold & Cough
+code_fish_cat_non_medical_23,DEODORANT,Non Medical
+code_fish_cat_non_medical_24,Hair gel,Non Medical
+code_fish_cat_medical_20,Topical Anti-Inflammatory Analgesic Preparations,Medical
+code_fish_cat_non_medical_26,shaving product,Men Products
+code_fish_cat_non_medical_27,woman kits,Mother & Child
+code_fish_cat_non_medical_28,soap,Body Care
+code_fish_cat_non_medical_29,Hair cream,Non Medical
+code_fish_cat_non_medical_30,Baby Care,Mother & Child
+code_fish_cat_non_medical_31,Households,Non Medical
+code_fish_cat_non_medical_32,hair oil,Non Medical
+code_fish_cat_non_medical_33,Sugar Analysis,Non Medical
+code_fish_cat_non_medical_34,Blood Pressure Meter,Non Medical
+code_fish_cat_non_medical_35,Adult diapers,Non Medical
+code_fish_cat_non_medical_36,Tooth brush,Mouth care
+code_fish_cat_non_medical_37,Personal Scales,Non Medical
+code_fish_cat_non_medical_38,Baby and Child Accessories,Mother & Child
+code_fish_cat_non_medical_39,Loofa,Body Care
+code_fish_cat_non_medical_40,Nebulizer,Non Medical
+code_fish_cat_non_medical_42,Infant Nutrition,Mother & Child
+code_fish_cat_non_medical_43,Herbal,Cold & Cough
+code_fish_cat_non_medical_44,INHALATION,Cold & Cough
+code_fish_cat_non_medical_45,lubricant gel,Sexual wellness
+code_fish_cat_non_medical_46,Nail polish remover,Body Care
+code_fish_cat_non_medical_47,Pill Organizer,Non Medical
+code_fish_cat_non_medical_48,TOOTH PASTE,Mouth care
+code_fish_cat_non_medical_49,wipes,Non Medical
+code_fish_cat_non_medical_50,SKIN CLEANSING,Body Care
+code_fish_cat_non_medical_51,Inhaler,Cold & Cough
+code_fish_cat_medical_39,Topical Anti-Thrombic & Anti-edema Preparations,Medical
+code_fish_cat_non_medical_53,Tooth paste kids,Mouth care
+code_fish_cat_non_medical_54,Hand gel,Body Care
+code_fish_cat_non_medical_55,TOOTH BRUSH kids,Mouth care
+code_fish_cat_non_medical_57,Hairdresse Machine,Non Medical
+code_fish_cat_non_medical_58,TOOTH PICKS,Mouth care
+code_fish_cat_non_medical_59,HAIR REMOVE,Body Care
+code_fish_cat_non_medical_60,Suppository,Cold & Cough
+code_fish_cat_non_medical_61,Rose water,Body Care
+code_fish_cat_medical_25,Vitiligo And Psoriasis Preparations,Medical
+code_fish_cat_non_medical_63,Dental floss,Mouth care
+code_fish_cat_non_medical_64,Hair mask,Non Medical
+code_fish_cat_non_medical_65,Beauty tools,Non Medical
+code_fish_cat_non_medical_62,Cotton Buds,Non Medical
+code_fish_cat_non_medical_16,General Supplies,Non Medical
+code_fish_cat_non_medical_52,HAIR BRUSH,Non Medical

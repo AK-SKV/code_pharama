@@ -1,0 +1,1203 @@
+id,customer,supplier,company_type,name
+man_1,FALSE,TRUE,company,3C
+man_2,FALSE,TRUE,company,3M/Eipico
+man_3,FALSE,TRUE,company,4A Pharma
+man_4,FALSE,TRUE,company,A.M. Pharm/ Adam
+man_5,FALSE,TRUE,company,AB One Pharma
+man_6,FALSE,TRUE,company,AB1/Gelatin
+man_7,FALSE,TRUE,company,Abbott
+man_8,FALSE,TRUE,company,Abbott-USA
+man_9,FALSE,TRUE,company,Acdima
+man_10,FALSE,TRUE,company,Actavis/import.by forword pharma
+man_11,FALSE,TRUE,company,Adco
+man_12,FALSE,TRUE,company,Adco/Cheisi
+man_13,FALSE,TRUE,company,Advance Pharma
+man_14,FALSE,TRUE,company,Advocure Pharmaceuticals
+man_15,FALSE,TRUE,company,Adwia
+man_16,FALSE,TRUE,company,Adwia/Princess Pharma
+man_17,FALSE,TRUE,company,ADWIC
+man_18,FALSE,TRUE,company,Aglan/Lamaco
+man_19,FALSE,TRUE,company,AglanPharma
+man_20,FALSE,TRUE,company,AIG
+man_21,FALSE,TRUE,company,AIT
+man_22,FALSE,TRUE,company,Al Andalous
+man_23,FALSE,TRUE,company,Al Andalous/DeltaPharm
+man_24,FALSE,TRUE,company,Al Andalous/SIGMA
+man_25,FALSE,TRUE,company,Al Esraa/Sigma
+man_26,FALSE,TRUE,company,Al-Andalous
+man_27,FALSE,TRUE,company,Al-Ansar
+man_28,FALSE,TRUE,company,AlcoCusi/Rameda
+man_29,FALSE,TRUE,company,Alcon
+man_30,FALSE,TRUE,company,Alcon/import by U.C.P.
+man_31,FALSE,TRUE,company,Al-Esraa
+man_32,FALSE,TRUE,company,Alexandria
+man_33,FALSE,TRUE,company,Alexandria/ Rotabiogen
+man_34,FALSE,TRUE,company,Alexandria/Acdima
+man_35,FALSE,TRUE,company,Alexandria/Emitco
+man_36,FALSE,TRUE,company,Alfacure
+man_37,FALSE,TRUE,company,ALFACURE PHARMACEUTICALS
+man_38,FALSE,TRUE,company,Allergan
+man_39,FALSE,TRUE,company,Allergan/Eipico
+man_40,FALSE,TRUE,company,Allergan/imp. By Sofeco
+man_41,FALSE,TRUE,company,Allergan/Sofeco
+man_42,FALSE,TRUE,company,Alliance Pharma
+man_43,FALSE,TRUE,company,Al-Mottahedoon
+man_44,FALSE,TRUE,company,Alpha Medical
+man_45,FALSE,TRUE,company,Alpha pharm/Sigma
+man_46,FALSE,TRUE,company,AlphAmoun
+man_47,FALSE,TRUE,company,AlphaPharma
+man_48,FALSE,TRUE,company,Al-Rowad
+man_49,FALSE,TRUE,company,Altana
+man_50,FALSE,TRUE,company,AlvedaPharm/ Sunny medical gp
+man_51,FALSE,TRUE,company,AMD
+man_52,FALSE,TRUE,company,Amgen Europe
+man_53,FALSE,TRUE,company,Amidpharm
+man_54,FALSE,TRUE,company,AMK
+man_55,FALSE,TRUE,company,Amman Pharmaceutical ind.-Amman
+man_56,FALSE,TRUE,company,Amoun
+man_57,FALSE,TRUE,company,AMR
+man_58,FALSE,TRUE,company,Amriya
+man_59,FALSE,TRUE,company,Amriya/Ph. Tech
+man_60,FALSE,TRUE,company,Angelini/Eipico
+man_61,FALSE,TRUE,company,Anika
+man_62,FALSE,TRUE,company,Antigen
+man_63,FALSE,TRUE,company,Anubus-Barcelona
+man_64,FALSE,TRUE,company,Apex Pharma
+man_65,FALSE,TRUE,company,Apex/Alkan
+man_66,FALSE,TRUE,company,Apex/OctoberPharma
+man_67,FALSE,TRUE,company,API/Adam for Trading
+man_68,FALSE,TRUE,company,APIC
+man_69,FALSE,TRUE,company,API-Jordan
+man_70,FALSE,TRUE,company,APM-Jordan
+man_71,FALSE,TRUE,company,Apogeha-germany
+man_72,FALSE,TRUE,company,Apotex
+man_73,FALSE,TRUE,company,Aquagen/SIGMA
+man_74,FALSE,TRUE,company,Ara Zaini for chemicals/ARTEV
+man_75,FALSE,TRUE,company,Arab Caps
+man_76,FALSE,TRUE,company,Arab Caps/Biopharma
+man_77,FALSE,TRUE,company,Arab Caps/Chemipharm
+man_78,FALSE,TRUE,company,Arab Caps/Marco Int.
+man_79,FALSE,TRUE,company,Arab Center for Pharmaceuticals and chemicals
+man_80,FALSE,TRUE,company,Arab co.
+man_81,FALSE,TRUE,company,Arab co./PharmaCare
+man_82,FALSE,TRUE,company,Arab company
+man_83,FALSE,TRUE,company,Arab Drug Company
+man_84,FALSE,TRUE,company,Arab Perfume
+man_85,FALSE,TRUE,company,Arab Perfume& Chemicals
+man_86,FALSE,TRUE,company,Arabcomed
+man_87,FALSE,TRUE,company,Arabian group (AGDT)
+man_88,FALSE,TRUE,company,Arkedia
+man_89,FALSE,TRUE,company,Arkedia intr.
+man_90,FALSE,TRUE,company,Aspico/Nile
+man_91,FALSE,TRUE,company,AstaMedica
+man_92,FALSE,TRUE,company,Astella-japan/Hikma-jordan
+man_93,FALSE,TRUE,company,Astellas
+man_94,FALSE,TRUE,company,Astellas Pharma
+man_95,FALSE,TRUE,company,Astellas pharma inc
+man_96,FALSE,TRUE,company,Astra Zeneca
+man_97,FALSE,TRUE,company,Astra Zeneca/Healthy Family
+man_98,FALSE,TRUE,company,Atm
+man_99,FALSE,TRUE,company,ATM pharmaceut
+man_100,FALSE,TRUE,company,AtonPharma USA
+man_101,FALSE,TRUE,company,Atos
+man_102,FALSE,TRUE,company,AUG
+man_103,FALSE,TRUE,company,AUG PHARMA EGYPT
+man_104,FALSE,TRUE,company,Avano Pharma
+man_105,FALSE,TRUE,company,Aventis
+man_106,FALSE,TRUE,company,Aventis/Alex
+man_107,FALSE,TRUE,company,Aventis/Ramco
+man_108,FALSE,TRUE,company,Averoes Pharm
+man_109,FALSE,TRUE,company,Averroes Pharma/El Obour
+man_110,FALSE,TRUE,company,Avizor
+man_111,FALSE,TRUE,company,Ayrest
+man_112,FALSE,TRUE,company,BADR PHARMA
+man_113,FALSE,TRUE,company,Baxter Australia
+man_114,FALSE,TRUE,company,baxter oncologt-germany
+man_115,FALSE,TRUE,company,Bayer
+man_116,FALSE,TRUE,company,Bayer/Sofeco
+man_117,FALSE,TRUE,company,Beaufour ipsea
+man_118,FALSE,TRUE,company,Beauty &Beyond
+man_119,FALSE,TRUE,company,Beecham/Mup
+man_120,FALSE,TRUE,company,Beijing Union Pharm. Co.
+man_121,FALSE,TRUE,company,BetaPharm
+man_122,FALSE,TRUE,company,BetaPharm/VitaPharm
+man_123,FALSE,TRUE,company,"BeutyPharm,intr. Gp"
+man_124,FALSE,TRUE,company,Bi Tech Pharma
+man_125,FALSE,TRUE,company,BIG (bioriginal intr. gp.)
+man_126,FALSE,TRUE,company,BIG/ Sab For Trading
+man_127,FALSE,TRUE,company,Biocapital
+man_128,FALSE,TRUE,company,"Bioderma,France"
+man_129,FALSE,TRUE,company,Biofactor-germany
+man_130,FALSE,TRUE,company,Biofilm incorpo.
+man_131,FALSE,TRUE,company,"Biogen,France"
+man_132,FALSE,TRUE,company,Biomeda
+man_133,FALSE,TRUE,company,Bionorica
+man_134,FALSE,TRUE,company,Bionorica/Technomad
+man_135,FALSE,TRUE,company,Bionutrition Pharma gp.
+man_136,FALSE,TRUE,company,BioPharm/Pharco
+man_137,FALSE,TRUE,company,Biopharma
+man_138,FALSE,TRUE,company,Bioriginal intr. group
+man_139,FALSE,TRUE,company,Biosynthesis
+man_140,FALSE,TRUE,company,Biot
+man_141,FALSE,TRUE,company,Biotecx USA
+man_142,FALSE,TRUE,company,Bioxell Pharma
+man_143,FALSE,TRUE,company,BMS/Pharco
+man_144,FALSE,TRUE,company,Boehringer Ingelhiem
+man_145,FALSE,TRUE,company,Boehringer/Cid
+man_146,FALSE,TRUE,company,Boehringer/EgyDrug
+man_147,FALSE,TRUE,company,Boehringer/SafePharma
+man_148,FALSE,TRUE,company,Boots
+man_149,FALSE,TRUE,company,Borg Pharmaceutical Industries
+man_150,FALSE,TRUE,company,Bosch & Lombe
+man_151,FALSE,TRUE,company,Bounty
+man_152,FALSE,TRUE,company,Bracco
+man_153,FALSE,TRUE,company,Bristol Mayers Squibb
+man_154,FALSE,TRUE,company,Bristol Mayers Squibb (BMS)
+man_155,FALSE,TRUE,company,Brother Ph./Sigma
+man_156,FALSE,TRUE,company,Byk
+man_157,FALSE,TRUE,company,Care to Care
+man_158,FALSE,TRUE,company,Cemix Pharm
+man_159,FALSE,TRUE,company,Chabrawichi/ Shrouhal Pharma
+man_160,FALSE,TRUE,company,Cheisi/Nile
+man_161,FALSE,TRUE,company,Chemi Health
+man_162,FALSE,TRUE,company,Chemidica
+man_163,FALSE,TRUE,company,Chemigroup
+man_164,FALSE,TRUE,company,ChemiPharm
+man_165,FALSE,TRUE,company,Chemipharm /Genesis
+man_166,FALSE,TRUE,company,ChemiPharm/Altana
+man_167,FALSE,TRUE,company,Chemitech
+man_168,FALSE,TRUE,company,Chiesi
+man_169,FALSE,TRUE,company,Chiesi / Nile
+man_170,FALSE,TRUE,company,choongwae pharma
+man_171,FALSE,TRUE,company,CID
+man_172,FALSE,TRUE,company,Cipla (India)
+man_173,FALSE,TRUE,company,Cipla/Star International
+man_174,FALSE,TRUE,company,Clavita pharm
+man_175,FALSE,TRUE,company,Colgate-Palmolive
+man_176,FALSE,TRUE,company,Concord
+man_177,FALSE,TRUE,company,Concord Pharma
+man_178,FALSE,TRUE,company,Copad
+man_179,FALSE,TRUE,company,Copad Egypt Pharma/Alkan
+man_180,FALSE,TRUE,company,CopadPharma
+man_181,FALSE,TRUE,company,CoxPharma-England
+man_182,FALSE,TRUE,company,CSL-AG Switherland
+man_183,FALSE,TRUE,company,Cure Sanata
+man_184,FALSE,TRUE,company,Damel-Spain
+man_185,FALSE,TRUE,company,Dar-Al-Dawaa
+man_186,FALSE,TRUE,company,DDD
+man_187,FALSE,TRUE,company,Debeiky
+man_188,FALSE,TRUE,company,Debeiky/Akemco
+man_189,FALSE,TRUE,company,Debeiky/Repharma
+man_190,FALSE,TRUE,company,Debeiky/Sigmatec
+man_191,FALSE,TRUE,company,Debeiky/Vitopharm
+man_192,FALSE,TRUE,company,Delagrange/Memphis
+man_193,FALSE,TRUE,company,Delalande/Memphis
+man_194,FALSE,TRUE,company,Delta Drug Trading
+man_195,FALSE,TRUE,company,Delta Pharm
+man_196,FALSE,TRUE,company,Delta pharm/Advocure
+man_197,FALSE,TRUE,company,Delta Pharma
+man_198,FALSE,TRUE,company,DeltaPharm
+man_199,FALSE,TRUE,company,DeltaPharm /RaPhaPharm
+man_200,FALSE,TRUE,company,DeltaPharm/EgyPhar
+man_201,FALSE,TRUE,company,Derm - sp. Imported
+man_202,FALSE,TRUE,company,Devart laboratory
+man_203,FALSE,TRUE,company,Diamond
+man_204,FALSE,TRUE,company,dimension
+man_205,FALSE,TRUE,company,Disop
+man_206,FALSE,TRUE,company,DKT
+man_207,FALSE,TRUE,company,Dolorget/Eipico
+man_208,FALSE,TRUE,company,Dolorgiet
+man_209,FALSE,TRUE,company,Dr.Falk/Minapharm
+man_210,FALSE,TRUE,company,Dr.mann
+man_211,FALSE,TRUE,company,Dr.Mann/MinaPharm
+man_212,FALSE,TRUE,company,Dr.Wild swithzerland
+man_213,FALSE,TRUE,company,Draxis Pharma/ Multipharma
+man_214,FALSE,TRUE,company,DRK-germany/Vari Pharma
+man_215,FALSE,TRUE,company,Du Pont
+man_216,FALSE,TRUE,company,Dulex laboratory
+man_217,FALSE,TRUE,company,Dulex Pharma
+man_218,FALSE,TRUE,company,Dumex/Minapharm
+man_219,FALSE,TRUE,company,Dupont/Misr
+man_220,FALSE,TRUE,company,E.E.Ph.Co.
+man_221,FALSE,TRUE,company,E.G.Ph./Purity Ph.
+man_222,FALSE,TRUE,company,E.P.C./MUP
+man_223,FALSE,TRUE,company,Ebewe
+man_224,FALSE,TRUE,company,ECAP
+man_225,FALSE,TRUE,company,ECC
+man_226,FALSE,TRUE,company,Eckhart
+man_227,FALSE,TRUE,company,EcoPharma
+man_228,FALSE,TRUE,company,EDGroup/Sigma
+man_229,FALSE,TRUE,company,EEPC ( Egyptian European Pharmaceutical Co.)
+man_230,FALSE,TRUE,company,EEPh.Ind./ Pharma-Tech
+man_231,FALSE,TRUE,company,EEPI
+man_232,FALSE,TRUE,company,EEUP
+man_233,FALSE,TRUE,company,Efamol limited UK
+man_234,FALSE,TRUE,company,Effective guide pharma
+man_235,FALSE,TRUE,company,EG Fit
+man_236,FALSE,TRUE,company,EGD
+man_237,FALSE,TRUE,company,EGD/MinaPharm
+man_238,FALSE,TRUE,company,EGD/Pharonia
+man_239,FALSE,TRUE,company,EGDT ( Egyptian Group for Drug Trading Co. )
+man_240,FALSE,TRUE,company,EGP
+man_241,FALSE,TRUE,company,EGPh.Ind./ Aig
+man_242,FALSE,TRUE,company,EGPh.Ind./ Globe
+man_243,FALSE,TRUE,company,EGPh.Ind./ Jasper
+man_244,FALSE,TRUE,company,EGPh.Ind./Advance
+man_245,FALSE,TRUE,company,EGPh.Ind./Health well
+man_246,FALSE,TRUE,company,Egphar./Sigma
+man_247,FALSE,TRUE,company,EGPI
+man_248,FALSE,TRUE,company,EGPI/ Pharma Care
+man_249,FALSE,TRUE,company,EGPI/ Sea Pharma
+man_250,FALSE,TRUE,company,EGPI/Advance
+man_251,FALSE,TRUE,company,EGPI/Diamond
+man_252,FALSE,TRUE,company,EGPI/Glenmark
+man_253,FALSE,TRUE,company,EGPI/Globe intr. Ph.
+man_254,FALSE,TRUE,company,EGPI/Magestic Power
+man_255,FALSE,TRUE,company,EGPI/Rector
+man_256,FALSE,TRUE,company,EGPI/Sigma
+man_257,FALSE,TRUE,company,Egy FT pharma
+man_258,FALSE,TRUE,company,Egyp. Co. /Infinity Pharma
+man_259,FALSE,TRUE,company,Egyp. Co./ advance pharma
+man_260,FALSE,TRUE,company,Egyp. Co./ Amuke health care
+man_261,FALSE,TRUE,company,Egyp. Co./ Pearla Pharm
+man_262,FALSE,TRUE,company,Egyp. Co./Impax Ph.
+man_263,FALSE,TRUE,company,Egyp. Co./Jupitar co.
+man_264,FALSE,TRUE,company,Egyp. Co./Life Pharma
+man_265,FALSE,TRUE,company,Egyp. Co./Valeria
+man_266,FALSE,TRUE,company,EGYP. GP./Tag Pharma
+man_267,FALSE,TRUE,company,Egyp. Phar. Grp.
+man_268,FALSE,TRUE,company,Egyp.Co. /Scope
+man_269,FALSE,TRUE,company,Egyp.Co./Excel
+man_270,FALSE,TRUE,company,Egyp.Cosmt/Valeria Ph
+man_271,FALSE,TRUE,company,Egyp.for Cosmetics/PharmaMix
+man_272,FALSE,TRUE,company,Egyp.Pharma Gp./Sigma
+man_273,FALSE,TRUE,company,Egyp.Pharmaceutical trading
+man_274,FALSE,TRUE,company,Egyp.Salt&Soda
+man_275,FALSE,TRUE,company,Egyp-cosmtics/Rival
+man_276,FALSE,TRUE,company,Egyphar (Egyptian Pharmaceutical Company)
+man_277,FALSE,TRUE,company,Egyphar/October
+man_278,FALSE,TRUE,company,EgyPhar/UniPharma
+man_279,FALSE,TRUE,company,Egypharm
+man_280,FALSE,TRUE,company,Egypharma
+man_281,FALSE,TRUE,company,EgyPharma/KatoPrestige
+man_282,FALSE,TRUE,company,Egypharma/Sigma
+man_283,FALSE,TRUE,company,EgyPharmix/Cangene-Canada
+man_284,FALSE,TRUE,company,Egypt
+man_285,FALSE,TRUE,company,Egypt Ph. G.
+man_286,FALSE,TRUE,company,Egypt Pharm
+man_287,FALSE,TRUE,company,Egyptian Candian comp.
+man_288,FALSE,TRUE,company,Egyptian co / MercyPharm
+man_289,FALSE,TRUE,company,Egyptian Co./ RonePolan
+man_290,FALSE,TRUE,company,Egyptian Europ.Ph.Co.
+man_291,FALSE,TRUE,company,Egyptian for Cosmetics
+man_292,FALSE,TRUE,company,Egyptian group
+man_293,FALSE,TRUE,company,Egyptian Ph.Co
+man_294,FALSE,TRUE,company,Egyptian Pharmacist company
+man_295,FALSE,TRUE,company,Egyptian Pharmacist/Sigma
+man_296,FALSE,TRUE,company,EgyptianCenter
+man_297,FALSE,TRUE,company,EgyptianPharmex
+man_298,FALSE,TRUE,company,EIMC United Pharmaceuticals
+man_299,FALSE,TRUE,company,Eimc/TechnoPharma
+man_300,FALSE,TRUE,company,EIPICO
+man_301,FALSE,TRUE,company,Eisai
+man_302,FALSE,TRUE,company,El Ahram /Pharma Ph.
+man_303,FALSE,TRUE,company,El Eman
+man_304,FALSE,TRUE,company,El Fath
+man_305,FALSE,TRUE,company,El hadidi pharma/Unipharma
+man_306,FALSE,TRUE,company,El Horreia
+man_307,FALSE,TRUE,company,El massa
+man_308,FALSE,TRUE,company,El Nour Phatma/El-Obour
+man_309,FALSE,TRUE,company,El Obour
+man_310,FALSE,TRUE,company,El Obour /Averroes
+man_311,FALSE,TRUE,company,El Obour/ El-Nour pharma/ Nile Pharma gp
+man_312,FALSE,TRUE,company,El Obour/Mash Pharma
+man_313,FALSE,TRUE,company,El Obour/PharmaLaroche
+man_314,FALSE,TRUE,company,El obour\Logy
+man_315,FALSE,TRUE,company,El ofek/MultiPharma
+man_316,FALSE,TRUE,company,El Razi /Arab Co.
+man_317,FALSE,TRUE,company,El sisi
+man_318,FALSE,TRUE,company,El Sisi/ UniPharma
+man_319,FALSE,TRUE,company,El Sisi/Sigma
+man_320,FALSE,TRUE,company,Elerti/GNP
+man_321,FALSE,TRUE,company,El-Esraa
+man_322,FALSE,TRUE,company,El-Esrraa
+man_323,FALSE,TRUE,company,El-helo co.
+man_324,FALSE,TRUE,company,Elite
+man_325,FALSE,TRUE,company,Elite/Marcryl
+man_326,FALSE,TRUE,company,ElitePharma
+man_327,FALSE,TRUE,company,El-motaheda
+man_328,FALSE,TRUE,company,El-Obour/ MaxCure
+man_329,FALSE,TRUE,company,El-Obour/ Original Pharma gp
+man_330,FALSE,TRUE,company,EMA
+man_331,FALSE,TRUE,company,EMA Pharm
+man_332,FALSE,TRUE,company,EMA/Pharaonia
+man_333,FALSE,TRUE,company,Emac/El-Obour
+man_334,FALSE,TRUE,company,Emanpharma /Arab Co.
+man_335,FALSE,TRUE,company,EmaPh./SafePharma
+man_336,FALSE,TRUE,company,EmaPharm /EaglePharm
+man_337,FALSE,TRUE,company,EMAPharm/Amriya
+man_338,FALSE,TRUE,company,EMC -Debeiky
+man_339,FALSE,TRUE,company,EMIC
+man_340,FALSE,TRUE,company,Emico Pharm
+man_341,FALSE,TRUE,company,Emitco Pharm
+man_342,FALSE,TRUE,company,Enliven
+man_343,FALSE,TRUE,company,EPC ( Egyptian Pharmacist Company )
+man_344,FALSE,TRUE,company,EPC/Sigma
+man_345,FALSE,TRUE,company,EPCI
+man_346,FALSE,TRUE,company,EPCI /Maxi cure
+man_347,FALSE,TRUE,company,EPCI/Arrow pharm
+man_348,FALSE,TRUE,company,EPCI/EaglePh
+man_349,FALSE,TRUE,company,EPCI/Synergy
+man_350,FALSE,TRUE,company,EPCI/Trust
+man_351,FALSE,TRUE,company,ET group
+man_352,FALSE,TRUE,company,Euro.Egy.PH
+man_353,FALSE,TRUE,company,"European Egyp. Ph., Ind.- Amriya"
+man_354,FALSE,TRUE,company,EVA Pharm
+man_355,FALSE,TRUE,company,EVA Pharma
+man_356,FALSE,TRUE,company,Evans Medical/Nile
+man_357,FALSE,TRUE,company,EverCure/Nile
+man_358,FALSE,TRUE,company,Excel
+man_359,FALSE,TRUE,company,Excel Pharma
+man_360,FALSE,TRUE,company,Falcon Pharma Group
+man_361,FALSE,TRUE,company,Farabi
+man_362,FALSE,TRUE,company,Fareed Habeb office
+man_363,FALSE,TRUE,company,Fareed Habib
+man_364,FALSE,TRUE,company,Fasska/Vacsera
+man_365,FALSE,TRUE,company,Felaxis/Multi-Pharma
+man_366,FALSE,TRUE,company,Ferrer/OctoberPharma
+man_367,FALSE,TRUE,company,Ferring
+man_368,FALSE,TRUE,company,Ferring/EgyDrug
+man_369,FALSE,TRUE,company,Ferring/MultiPharma
+man_370,FALSE,TRUE,company,Fidia
+man_371,FALSE,TRUE,company,FittyDent-Austria
+man_372,FALSE,TRUE,company,Flogny
+man_373,FALSE,TRUE,company,Fournier
+man_374,FALSE,TRUE,company,FPI
+man_375,FALSE,TRUE,company,Francex
+man_376,FALSE,TRUE,company,Fresenius
+man_377,FALSE,TRUE,company,Fresenius Kabi
+man_378,FALSE,TRUE,company,Fresenius Kabi/EMIC
+man_379,FALSE,TRUE,company,Fresinus Kabi
+man_380,FALSE,TRUE,company,Future Biotic
+man_381,FALSE,TRUE,company,Future Pharmaceutical industries (FPI)
+man_382,FALSE,TRUE,company,Gamaces
+man_383,FALSE,TRUE,company,Gast Pharma group
+man_384,FALSE,TRUE,company,Gedeon Richter
+man_385,FALSE,TRUE,company,Geistlich/Eipico
+man_386,FALSE,TRUE,company,Gelatin
+man_387,FALSE,TRUE,company,Gelatin/ Cemix
+man_388,FALSE,TRUE,company,Gelatin/ EgyPharma
+man_389,FALSE,TRUE,company,Gelatin/ Napco
+man_390,FALSE,TRUE,company,Gelatin/AlfaPharm
+man_391,FALSE,TRUE,company,Gelatin/Debeiky
+man_392,FALSE,TRUE,company,Gelatin/Master
+man_393,FALSE,TRUE,company,Gelatin/MedCare
+man_394,FALSE,TRUE,company,Gelatin/Medizen/Montana
+man_395,FALSE,TRUE,company,Gelatin/Novotec
+man_396,FALSE,TRUE,company,Gelatin/NuLife
+man_397,FALSE,TRUE,company,Gelatin/Pharmacare
+man_398,FALSE,TRUE,company,Gelatin/Royal Group
+man_399,FALSE,TRUE,company,Gelatin/RoyalSmart
+man_400,FALSE,TRUE,company,Gelatin/UltraCare/Intr.Medical guide
+man_401,FALSE,TRUE,company,"Gelita Health,germany"
+man_402,FALSE,TRUE,company,Genepharm-Greece/ Sunny
+man_403,FALSE,TRUE,company,Generic UK Limited
+man_404,FALSE,TRUE,company,Generics limited
+man_405,FALSE,TRUE,company,Genesis pharmaceuticals
+man_406,FALSE,TRUE,company,Genove Egypt
+man_407,FALSE,TRUE,company,Genove-Spain
+man_408,FALSE,TRUE,company,Genzyme
+man_409,FALSE,TRUE,company,Geopharma
+man_410,FALSE,TRUE,company,GeoPharma/Marcryl
+man_411,FALSE,TRUE,company,GermanSchering
+man_412,FALSE,TRUE,company,germany
+man_413,FALSE,TRUE,company,Gerolymatos intern.
+man_414,FALSE,TRUE,company,Gerot
+man_415,FALSE,TRUE,company,Gerot/EgyDrug
+man_416,FALSE,TRUE,company,Ghalioun gui Trading
+man_417,FALSE,TRUE,company,Gilbert
+man_418,FALSE,TRUE,company,GILEAD SCIENCES
+man_419,FALSE,TRUE,company,Glaxo
+man_420,FALSE,TRUE,company,Glaxo Irland
+man_421,FALSE,TRUE,company,Glaxo SK/Mup
+man_422,FALSE,TRUE,company,Glaxo/Beecham
+man_423,FALSE,TRUE,company,Glaxo/ModernPharma
+man_424,FALSE,TRUE,company,GlaxoWellcome
+man_425,FALSE,TRUE,company,Glead ????? -USA
+man_426,FALSE,TRUE,company,Global Napi
+man_427,FALSE,TRUE,company,Globe intr. Ph.
+man_428,FALSE,TRUE,company,GNP (Global Napi Pharmaceutical )
+man_429,FALSE,TRUE,company,GNP/Aventis
+man_430,FALSE,TRUE,company,GNP/BioPharm
+man_431,FALSE,TRUE,company,GNP/Derma
+man_432,FALSE,TRUE,company,GNP/FBI (future Ph. Ind.)
+man_433,FALSE,TRUE,company,GNP/Penta Pharma
+man_434,FALSE,TRUE,company,GNP/Rhein
+man_435,FALSE,TRUE,company,GNP/Stada
+man_436,FALSE,TRUE,company,"GOEMAR,France"
+man_437,FALSE,TRUE,company,Golden Foods / for Danid co.
+man_438,FALSE,TRUE,company,Golden life
+man_439,FALSE,TRUE,company,Golden Queen
+man_440,FALSE,TRUE,company,Golden Queen /Arab co.
+man_441,FALSE,TRUE,company,Gothaplast/Sedico
+man_442,FALSE,TRUE,company,Gpl/Eipico
+man_443,FALSE,TRUE,company,Grand Pharma/Elrazy
+man_444,FALSE,TRUE,company,Grandpharm/marcryl
+man_445,FALSE,TRUE,company,GrandPharma
+man_446,FALSE,TRUE,company,GrandPharma/Glenmark
+man_447,FALSE,TRUE,company,Green.Cross/ Vaccera
+man_448,FALSE,TRUE,company,Grunenthal/MinaPharm
+man_449,FALSE,TRUE,company,GSK (Glaxo Smith kline)
+man_450,FALSE,TRUE,company,Gsk/Novartis
+man_451,FALSE,TRUE,company,Guerbet
+man_452,FALSE,TRUE,company,Habib Scientific office
+man_453,FALSE,TRUE,company,Haidylena
+man_454,FALSE,TRUE,company,Haya Pharm
+man_455,FALSE,TRUE,company,Health Care/Gelatin
+man_456,FALSE,TRUE,company,Health line International company
+man_457,FALSE,TRUE,company,Health power Pharm.
+man_458,FALSE,TRUE,company,Health way pharma
+man_459,FALSE,TRUE,company,Health well egypt
+man_460,FALSE,TRUE,company,Healthline Pharm
+man_461,FALSE,TRUE,company,Healthy
+man_462,FALSE,TRUE,company,Healthy Point
+man_463,FALSE,TRUE,company,Helow/Master Pharma
+man_464,FALSE,TRUE,company,HerbaPharm/Sigma
+man_465,FALSE,TRUE,company,Hermes Lab
+man_466,FALSE,TRUE,company,hero
+man_467,FALSE,TRUE,company,Hexal
+man_468,FALSE,TRUE,company,Hexal/MinaPharm
+man_469,FALSE,TRUE,company,Hi Care
+man_470,FALSE,TRUE,company,Hi Care /Health well
+man_471,FALSE,TRUE,company,Hi Care/ Philomarotia Pharm.
+man_472,FALSE,TRUE,company,Hi care/Avano Pharma
+man_473,FALSE,TRUE,company,Hi care/IMG
+man_474,FALSE,TRUE,company,Hi Pharm
+man_475,FALSE,TRUE,company,Hi Power
+man_476,FALSE,TRUE,company,Hi-Care /Roventis Ph.
+man_477,FALSE,TRUE,company,Hi-Care/ Avano Ph.
+man_478,FALSE,TRUE,company,Hi-Care/ Lamar Pharma
+man_479,FALSE,TRUE,company,Hi-Care/ PharmaCure
+man_480,FALSE,TRUE,company,Hi-Care/DDPharma
+man_481,FALSE,TRUE,company,Hi-Care/Diamond
+man_482,FALSE,TRUE,company,HiCare/Eban
+man_483,FALSE,TRUE,company,HiCare/Falcon
+man_484,FALSE,TRUE,company,HiCare/I.M.Guide
+man_485,FALSE,TRUE,company,HiCare/Mega intr. Pharm.
+man_486,FALSE,TRUE,company,Hi-Care/Pixel
+man_487,FALSE,TRUE,company,Hi-Care/Shrouhal Pharma
+man_488,FALSE,TRUE,company,Hi-Care-Purity Pharma
+man_489,FALSE,TRUE,company,High Desert
+man_490,FALSE,TRUE,company,Hikma
+man_491,FALSE,TRUE,company,Hikma (imported)
+man_492,FALSE,TRUE,company,Hikma / Syntex
+man_493,FALSE,TRUE,company,Hikma/BioPharm
+man_494,FALSE,TRUE,company,Hikma/Drossa
+man_495,FALSE,TRUE,company,Hikma/Produit
+man_496,FALSE,TRUE,company,"Hikma-Takeda,Japan"
+man_497,FALSE,TRUE,company,Himalaya/MultiPharma
+man_498,FALSE,TRUE,company,Hochster/Tiba
+man_499,FALSE,TRUE,company,HoliPharma
+man_500,FALSE,TRUE,company,Honest Pharma
+man_501,FALSE,TRUE,company,hope pharma
+man_502,FALSE,TRUE,company,Horizon
+man_503,FALSE,TRUE,company,Horizon Pharma
+man_504,FALSE,TRUE,company,Horus pharma
+man_505,FALSE,TRUE,company,Human Care
+man_506,FALSE,TRUE,company,Human-germany
+man_507,FALSE,TRUE,company,Hung/Alex
+man_508,FALSE,TRUE,company,Hygint
+man_509,FALSE,TRUE,company,i pharma egypt
+man_510,FALSE,TRUE,company,I.B.E/Sigma
+man_511,FALSE,TRUE,company,I.E.C.
+man_512,FALSE,TRUE,company,i.g.vit pharma
+man_513,FALSE,TRUE,company,I.P.M
+man_514,FALSE,TRUE,company,I.Vit. Corp.
+man_515,FALSE,TRUE,company,IBE/Sigma
+man_516,FALSE,TRUE,company,Ibn sina
+man_517,FALSE,TRUE,company,Ibn Sina/ Arab Caps
+man_518,FALSE,TRUE,company,Ibn Sina/Sigma
+man_519,FALSE,TRUE,company,IBSA
+man_520,FALSE,TRUE,company,ICI
+man_521,FALSE,TRUE,company,ICI/Kahira
+man_522,FALSE,TRUE,company,ICN
+man_523,FALSE,TRUE,company,Icon care
+man_524,FALSE,TRUE,company,ICU Pharma
+man_525,FALSE,TRUE,company,ID Agency
+man_526,FALSE,TRUE,company,IDA/Alpha group
+man_527,FALSE,TRUE,company,IDAPh.Ind./ Andalous
+man_528,FALSE,TRUE,company,IDI
+man_529,FALSE,TRUE,company,IDI ( International Drug Industries )
+man_530,FALSE,TRUE,company,IDI/IDAPh.I
+man_531,FALSE,TRUE,company,IDI/Sina Pharm
+man_532,FALSE,TRUE,company,IInspire
+man_533,FALSE,TRUE,company,Image
+man_534,FALSE,TRUE,company,Image Pharm
+man_535,FALSE,TRUE,company,IMP
+man_536,FALSE,TRUE,company,Impfstoffwerk
+man_537,FALSE,TRUE,company,Imported
+man_538,FALSE,TRUE,company,Imported by El-Masryia
+man_539,FALSE,TRUE,company,Imported by EVA
+man_540,FALSE,TRUE,company,Imported by Star international
+man_541,FALSE,TRUE,company,Indian co.
+man_542,FALSE,TRUE,company,Infinity Pharma
+man_543,FALSE,TRUE,company,Innotech intr./ Borg Pharm. Ind.
+man_544,FALSE,TRUE,company,"Inovate product inc., Canada"
+man_545,FALSE,TRUE,company,Inspire
+man_546,FALSE,TRUE,company,Inspire Pharma
+man_547,FALSE,TRUE,company,Intendis/Bayer
+man_548,FALSE,TRUE,company,Inter bionners
+man_549,FALSE,TRUE,company,Inter. Business estab./Sigma
+man_550,FALSE,TRUE,company,Inter. Med. Guide/Atos
+man_551,FALSE,TRUE,company,Intern. Vit.Corp
+man_552,FALSE,TRUE,company,Internat Pioneer
+man_553,FALSE,TRUE,company,International Egyptian company
+man_554,FALSE,TRUE,company,International trading office
+man_555,FALSE,TRUE,company,InterPharm
+man_556,FALSE,TRUE,company,Intr. Co. Cosemtics/Vertex
+man_557,FALSE,TRUE,company,Intr. Drug Agency
+man_558,FALSE,TRUE,company,Intr. Drug/Sigma
+man_559,FALSE,TRUE,company,Intr.co. for drug manufacturing/Human Care
+man_560,FALSE,TRUE,company,Intr.Medical guide/UniPharm
+man_561,FALSE,TRUE,company,Intr.Pharma/Pico
+man_562,FALSE,TRUE,company,Intr.trading office
+man_563,FALSE,TRUE,company,IPSEN
+man_564,FALSE,TRUE,company,Ipsen/Eipico
+man_565,FALSE,TRUE,company,Isis
+man_566,FALSE,TRUE,company,Isis France
+man_567,FALSE,TRUE,company,IsisPharma/ Biotic
+man_568,FALSE,TRUE,company,Isomedica
+man_569,FALSE,TRUE,company,ito
+man_570,FALSE,TRUE,company,IvySport/International Pioneer
+man_571,FALSE,TRUE,company,Jacoub Health Care for importing
+man_572,FALSE,TRUE,company,Jafco international
+man_573,FALSE,TRUE,company,Jamex pharma
+man_574,FALSE,TRUE,company,Jamjom
+man_575,FALSE,TRUE,company,Jamjom ksa imprt. By/MultiPharma
+man_576,FALSE,TRUE,company,Jamjoom
+man_577,FALSE,TRUE,company,Janssen Cilag
+man_578,FALSE,TRUE,company,Janssen Pharmaceutica
+man_579,FALSE,TRUE,company,Janssen/MinaPharm
+man_580,FALSE,TRUE,company,Janssen/Sofeco
+man_581,FALSE,TRUE,company,Jasper
+man_582,FALSE,TRUE,company,Jedco
+man_583,FALSE,TRUE,company,Jedco/ Al Rowad
+man_584,FALSE,TRUE,company,Jedco/4APharma
+man_585,FALSE,TRUE,company,JeilPharma
+man_586,FALSE,TRUE,company,Jeniko
+man_587,FALSE,TRUE,company,JMP
+man_588,FALSE,TRUE,company,Johnson & Johnson
+man_589,FALSE,TRUE,company,Joswe medical
+man_590,FALSE,TRUE,company,Joswe/Space medical
+man_591,FALSE,TRUE,company,JPI-KSA
+man_592,FALSE,TRUE,company,Julphar
+man_593,FALSE,TRUE,company,JULPHAR.UAE
+man_594,FALSE,TRUE,company,Julphar-Dubai
+man_595,FALSE,TRUE,company,Julphar-Gulf
+man_596,FALSE,TRUE,company,Jupitar
+man_597,FALSE,TRUE,company,KABI
+man_598,FALSE,TRUE,company,Kahira
+man_599,FALSE,TRUE,company,Kahira/Astellas
+man_600,FALSE,TRUE,company,Kahira/Bioxell
+man_601,FALSE,TRUE,company,Kahira/Evercure
+man_602,FALSE,TRUE,company,Kahira/modern office for imp./exp.
+man_603,FALSE,TRUE,company,Kahira/MultiPharma
+man_604,FALSE,TRUE,company,Kahira/Pharma Medica
+man_605,FALSE,TRUE,company,Kahira/Poskamp/SunnyMedical
+man_606,FALSE,TRUE,company,Kempetro
+man_607,FALSE,TRUE,company,Kesma & Chabrawichi
+man_608,FALSE,TRUE,company,Khairy
+man_609,FALSE,TRUE,company,kmt pharma
+man_610,FALSE,TRUE,company,Knoll
+man_611,FALSE,TRUE,company,Knoll/Adco
+man_612,FALSE,TRUE,company,Knoll/Kahira
+man_613,FALSE,TRUE,company,Kods pharma
+man_614,FALSE,TRUE,company,korea united pharma
+man_615,FALSE,TRUE,company,Kressler
+man_616,FALSE,TRUE,company,KUP
+man_617,FALSE,TRUE,company,Laboratory Preparations
+man_618,FALSE,TRUE,company,Laclede incorporation
+man_619,FALSE,TRUE,company,Lacto misr
+man_620,FALSE,TRUE,company,Lamar Pharma
+man_621,FALSE,TRUE,company,Ldpsa
+man_622,FALSE,TRUE,company,Leader - Elite
+man_623,FALSE,TRUE,company,Leader co./ egy.pharma gp./First Care
+man_624,FALSE,TRUE,company,Leader co./Aglan Pharma
+man_625,FALSE,TRUE,company,Leader Co./Image Pharma gp./Purex healthCare
+man_626,FALSE,TRUE,company,Leader co./Original Ph.Gp/ Fristcare Ph
+man_627,FALSE,TRUE,company,Leader Factory
+man_628,FALSE,TRUE,company,Leader factory/ A1Pharma
+man_629,FALSE,TRUE,company,Leader Factory/NovaPharm
+man_630,FALSE,TRUE,company,Leader factory/Onyx Pharma
+man_631,FALSE,TRUE,company,Leader industries
+man_632,FALSE,TRUE,company,Leader Industry/Farabi
+man_633,FALSE,TRUE,company,Leader/Aglan
+man_634,FALSE,TRUE,company,Leader/Esag
+man_635,FALSE,TRUE,company,Leader/Impax
+man_636,FALSE,TRUE,company,Leader/intr. Pharma gp.
+man_637,FALSE,TRUE,company,Leader/Jeniko Pharm
+man_638,FALSE,TRUE,company,LeadeR/Merge Pharma
+man_639,FALSE,TRUE,company,Leader/New Egypt Pharma
+man_640,FALSE,TRUE,company,Leader/Pharma Vision
+man_641,FALSE,TRUE,company,Leader/Theo
+man_642,FALSE,TRUE,company,Leader/Trust Pharma
+man_643,FALSE,TRUE,company,Leaders co./Goldin life for Drug
+man_644,FALSE,TRUE,company,Leaders ph.
+man_645,FALSE,TRUE,company,Lederle
+man_646,FALSE,TRUE,company,Lek/EgyDrug
+man_647,FALSE,TRUE,company,Lemaco
+man_648,FALSE,TRUE,company,Leo
+man_649,FALSE,TRUE,company,Leo/Egydrug
+man_650,FALSE,TRUE,company,Leo/Eipico
+man_651,FALSE,TRUE,company,Leo/MinaPharm
+man_652,FALSE,TRUE,company,Lepetit/Nile
+man_653,FALSE,TRUE,company,Life serve
+man_654,FALSE,TRUE,company,Life Time
+man_655,FALSE,TRUE,company,Lilly
+man_656,FALSE,TRUE,company,Lilly/Kahira
+man_657,FALSE,TRUE,company,Linko Pharma
+man_658,FALSE,TRUE,company,Liptis
+man_659,FALSE,TRUE,company,Liza-Luna
+man_660,FALSE,TRUE,company,LMCO
+man_661,FALSE,TRUE,company,Logestic
+man_662,FALSE,TRUE,company,Logios Pharma
+man_663,FALSE,TRUE,company,LogyPharma
+man_664,FALSE,TRUE,company,Luna
+man_665,FALSE,TRUE,company,"Luna,Wiser, etc"
+man_666,FALSE,TRUE,company,Lundbeck/MultiPharma
+man_667,FALSE,TRUE,company,LyoMark
+man_668,FALSE,TRUE,company,M.care
+man_669,FALSE,TRUE,company,M.S.P.
+man_670,FALSE,TRUE,company,Mack
+man_671,FALSE,TRUE,company,Mack/OctobrPharma
+man_672,FALSE,TRUE,company,Macro
+man_673,FALSE,TRUE,company,Macro intr. /SIGMA.
+man_674,FALSE,TRUE,company,Macro intr. Grp./Hi-Care
+man_675,FALSE,TRUE,company,Macro intr./ Arab caps.
+man_676,FALSE,TRUE,company,Macro/Arab co.
+man_677,FALSE,TRUE,company,Macro/Hi Care
+man_678,FALSE,TRUE,company,Macro/SIGMA
+man_679,FALSE,TRUE,company,Madaus/Cid
+man_680,FALSE,TRUE,company,Made in france
+man_681,FALSE,TRUE,company,Madina co.
+man_682,FALSE,TRUE,company,Madis SwissCaos./Pharma
+man_683,FALSE,TRUE,company,MAG Pharma
+man_684,FALSE,TRUE,company,Magestic/Sigma
+man_685,FALSE,TRUE,company,Magic Pharma
+man_686,FALSE,TRUE,company,Magistic power/Jedco
+man_687,FALSE,TRUE,company,Majestic
+man_688,FALSE,TRUE,company,Majestic power/ Jedco
+man_689,FALSE,TRUE,company,Manayer Naged
+man_690,FALSE,TRUE,company,Many Laboratories
+man_691,FALSE,TRUE,company,Map/Multi-Care
+man_692,FALSE,TRUE,company,map/Sobol-Dawa
+man_693,FALSE,TRUE,company,Marco
+man_694,FALSE,TRUE,company,Marcryl/ Nycomed
+man_695,FALSE,TRUE,company,Marcryl/AUG
+man_696,FALSE,TRUE,company,Marcryl/ChemiPharm
+man_697,FALSE,TRUE,company,Marcryl/COPAD
+man_698,FALSE,TRUE,company,Marcryl/EPiC
+man_699,FALSE,TRUE,company,Marcryl/Minapharm
+man_700,FALSE,TRUE,company,Marcryl/Obour
+man_701,FALSE,TRUE,company,Marcryl/PharmaGreen
+man_702,FALSE,TRUE,company,Marcryl/Vertex
+man_703,FALSE,TRUE,company,Marcyrl
+man_704,FALSE,TRUE,company,Marcyrl/AZ international groub.
+man_705,FALSE,TRUE,company,Marcyrl/Ecco Pharm
+man_706,FALSE,TRUE,company,Marcyrl/GNP
+man_707,FALSE,TRUE,company,Marcyrl/Habib S.Office
+man_708,FALSE,TRUE,company,Marcyrl/IBSA
+man_709,FALSE,TRUE,company,Marcyrl/Merz
+man_710,FALSE,TRUE,company,Marcyrl/Nile
+man_711,FALSE,TRUE,company,Mariez
+man_712,FALSE,TRUE,company,MarizPharma/El-Obour
+man_713,FALSE,TRUE,company,Martindale Pharma
+man_714,FALSE,TRUE,company,Marvel co.
+man_715,FALSE,TRUE,company,Masco Mid
+man_716,FALSE,TRUE,company,Mash
+man_717,FALSE,TRUE,company,Mash Premiere
+man_718,FALSE,TRUE,company,Mash/Panax Ph. Ind.
+man_719,FALSE,TRUE,company,Mash/Pharmaclinic
+man_720,FALSE,TRUE,company,Master professional
+man_721,FALSE,TRUE,company,Mayne
+man_722,FALSE,TRUE,company,Mayne-Austrelia/UGP
+man_723,FALSE,TRUE,company,Mc Neil-UK
+man_724,FALSE,TRUE,company,Meadjohnson
+man_725,FALSE,TRUE,company,Meadjohnson/Pharco
+man_726,FALSE,TRUE,company,Med.Natural
+man_727,FALSE,TRUE,company,Medac
+man_728,FALSE,TRUE,company,Med-Care
+man_729,FALSE,TRUE,company,MedHealth/Egyptian company for cosmetics
+man_730,FALSE,TRUE,company,Medi Pharm
+man_731,FALSE,TRUE,company,Medi Pharm/Green medical
+man_732,FALSE,TRUE,company,Medi Serve
+man_733,FALSE,TRUE,company,Medic
+man_734,FALSE,TRUE,company,Medicator
+man_735,FALSE,TRUE,company,Medics pharma
+man_736,FALSE,TRUE,company,Medimpex
+man_737,FALSE,TRUE,company,Medispine/Obour
+man_738,FALSE,TRUE,company,Medizen co.
+man_739,FALSE,TRUE,company,Medizen Ph./Sabaa Ph.
+man_740,FALSE,TRUE,company,Medizen/ Emitco
+man_741,FALSE,TRUE,company,Medizen/ Rotabiogen
+man_742,FALSE,TRUE,company,Medizen/Alfa group
+man_743,FALSE,TRUE,company,Medizen/EAPh.I.
+man_744,FALSE,TRUE,company,Medizen/EEPh.Ind.
+man_745,FALSE,TRUE,company,Medizen/Egygel Pharma
+man_746,FALSE,TRUE,company,Medizen/Magic Ph.
+man_747,FALSE,TRUE,company,Medizen/Mira Pharma
+man_748,FALSE,TRUE,company,Medizen/Napha
+man_749,FALSE,TRUE,company,Medizen/Tischon/Napha
+man_750,FALSE,TRUE,company,Medizen/Utopia
+man_751,FALSE,TRUE,company,Medizin/Hygint
+man_752,FALSE,TRUE,company,Medizin/Montana/Gelatin
+man_753,FALSE,TRUE,company,"Medreich, England"
+man_754,FALSE,TRUE,company,Medskina skin cosmeceutica
+man_755,FALSE,TRUE,company,Mega/HiCare
+man_756,FALSE,TRUE,company,MegaMed
+man_757,FALSE,TRUE,company,MegaPH./Eman
+man_758,FALSE,TRUE,company,MegaPharma group
+man_759,FALSE,TRUE,company,Meivo
+man_760,FALSE,TRUE,company,Meivo/Mepaco
+man_761,FALSE,TRUE,company,Meivo/Shefa intr
+man_762,FALSE,TRUE,company,Melbrosia
+man_763,FALSE,TRUE,company,Melbrosia/Alex
+man_764,FALSE,TRUE,company,Melbrosin/Adco
+man_765,FALSE,TRUE,company,Memphis
+man_766,FALSE,TRUE,company,Memphis/Bayer
+man_767,FALSE,TRUE,company,Memphis/Genesis Egypt
+man_768,FALSE,TRUE,company,Menarini/E.Ph.Trading
+man_769,FALSE,TRUE,company,Menarini/MinaPharm
+man_770,FALSE,TRUE,company,Mentholatum
+man_771,FALSE,TRUE,company,Mentholatum-Imported by Al-kamal office
+man_772,FALSE,TRUE,company,Mepaco
+man_773,FALSE,TRUE,company,Mepaco /Varts intr.
+man_774,FALSE,TRUE,company,Mepaco/Cyber
+man_775,FALSE,TRUE,company,Mepaco/EgyPharma
+man_776,FALSE,TRUE,company,Mepaco/I.M.G.
+man_777,FALSE,TRUE,company,Mepaco/Khayaal
+man_778,FALSE,TRUE,company,Mepha
+man_779,FALSE,TRUE,company,Merc Pharm
+man_780,FALSE,TRUE,company,Merck
+man_781,FALSE,TRUE,company,MerckSerono
+man_782,FALSE,TRUE,company,MercPharma
+man_783,FALSE,TRUE,company,Merg Pharmaceutical Company
+man_784,FALSE,TRUE,company,Merge
+man_785,FALSE,TRUE,company,Merz
+man_786,FALSE,TRUE,company,Middle east allied partner
+man_787,FALSE,TRUE,company,MidiPharma
+man_788,FALSE,TRUE,company,Millenium
+man_789,FALSE,TRUE,company,Milupa
+man_790,FALSE,TRUE,company,MinaPharm
+man_791,FALSE,TRUE,company,Minarini
+man_792,FALSE,TRUE,company,MiniSoft
+man_793,FALSE,TRUE,company,Mira
+man_794,FALSE,TRUE,company,Misr
+man_795,FALSE,TRUE,company,Modern Ph. Ind./El-Obour
+man_796,FALSE,TRUE,company,Montal
+man_797,FALSE,TRUE,company,Montana
+man_798,FALSE,TRUE,company,Montana Pharmaceutical
+man_799,FALSE,TRUE,company,MoreCare
+man_800,FALSE,TRUE,company,MotherNature
+man_801,FALSE,TRUE,company,MPC
+man_802,FALSE,TRUE,company,MSD
+man_803,FALSE,TRUE,company,MSD ( Merck sharpe & Dohme )
+man_804,FALSE,TRUE,company,Mucos
+man_805,FALSE,TRUE,company,Multi Apex Pharma
+man_806,FALSE,TRUE,company,Multi-Care
+man_807,FALSE,TRUE,company,MultiPharma
+man_808,FALSE,TRUE,company,MundiPharm
+man_809,FALSE,TRUE,company,MUP (Medical Union Pharmaceuticals)
+man_810,FALSE,TRUE,company,Muscle tech
+man_811,FALSE,TRUE,company,Mylan
+man_812,FALSE,TRUE,company,N.F.S
+man_813,FALSE,TRUE,company,Nafa
+man_814,FALSE,TRUE,company,Nanis
+man_815,FALSE,TRUE,company,Napco
+man_816,FALSE,TRUE,company,Napco/Gelatin
+man_817,FALSE,TRUE,company,Napha
+man_818,FALSE,TRUE,company,Nasr
+man_819,FALSE,TRUE,company,Nat-rul Health inc.
+man_820,FALSE,TRUE,company,Natterman
+man_821,FALSE,TRUE,company,Natural Cure
+man_822,FALSE,TRUE,company,Natural Life
+man_823,FALSE,TRUE,company,Natural Ph.Co.
+man_824,FALSE,TRUE,company,Natural Vit
+man_825,FALSE,TRUE,company,Natur's Care
+man_826,FALSE,TRUE,company,NeoPharma
+man_827,FALSE,TRUE,company,Nerhadou
+man_828,FALSE,TRUE,company,Nerhadu
+man_829,FALSE,TRUE,company,Nestle
+man_830,FALSE,TRUE,company,New Horizon
+man_831,FALSE,TRUE,company,New Pharma
+man_832,FALSE,TRUE,company,New Port
+man_833,FALSE,TRUE,company,NewLife
+man_834,FALSE,TRUE,company,Next Pharma
+man_835,FALSE,TRUE,company,Nice Pharma
+man_836,FALSE,TRUE,company,NICIM Co.
+man_837,FALSE,TRUE,company,Nife Spain-Brother Pharma
+man_838,FALSE,TRUE,company,Nile
+man_839,FALSE,TRUE,company,Nile group Pharma
+man_840,FALSE,TRUE,company,Nippon
+man_841,FALSE,TRUE,company,"Nippon Kayako co.,Japan"
+man_842,FALSE,TRUE,company,No Cal
+man_843,FALSE,TRUE,company,Nor Pharma
+man_844,FALSE,TRUE,company,Nordic-UK
+man_845,FALSE,TRUE,company,Nordisk
+man_846,FALSE,TRUE,company,Nordmark
+man_847,FALSE,TRUE,company,Norgine/A.U.G
+man_848,FALSE,TRUE,company,Nova Pharm
+man_849,FALSE,TRUE,company,NovaPharm
+man_850,FALSE,TRUE,company,Novartis
+man_851,FALSE,TRUE,company,Novo Nordisk
+man_852,FALSE,TRUE,company,Novotec Pharma
+man_853,FALSE,TRUE,company,NovotecPharma
+man_854,FALSE,TRUE,company,NPC
+man_855,FALSE,TRUE,company,Nulife
+man_856,FALSE,TRUE,company,Nutraceuticals
+man_857,FALSE,TRUE,company,Nutrexia
+man_858,FALSE,TRUE,company,Nutribio
+man_859,FALSE,TRUE,company,Nutricia
+man_860,FALSE,TRUE,company,Nutricia/Admin
+man_861,FALSE,TRUE,company,Nutrixia
+man_862,FALSE,TRUE,company,Nycomed
+man_863,FALSE,TRUE,company,Octa Pharma
+man_864,FALSE,TRUE,company,October Pharma
+man_865,FALSE,TRUE,company,OctoberPharma
+man_866,FALSE,TRUE,company,OmegaPharm
+man_867,FALSE,TRUE,company,One pharma
+man_868,FALSE,TRUE,company,Onyx Pharm
+man_869,FALSE,TRUE,company,OPI = Obour Pharmaceutical Industries
+man_870,FALSE,TRUE,company,OPRANOPHARMA EGYPT
+man_871,FALSE,TRUE,company,Optimum Nutrition
+man_872,FALSE,TRUE,company,Orchidia
+man_873,FALSE,TRUE,company,Organic Pharma
+man_874,FALSE,TRUE,company,Organo Pharma
+man_875,FALSE,TRUE,company,Organon
+man_876,FALSE,TRUE,company,OrganoPharma
+man_877,FALSE,TRUE,company,Organza
+man_878,FALSE,TRUE,company,OrgaSafe
+man_879,FALSE,TRUE,company,Origin International
+man_880,FALSE,TRUE,company,Origin International Pharma
+man_881,FALSE,TRUE,company,Original pharma group
+man_882,FALSE,TRUE,company,Orion corporation
+man_883,FALSE,TRUE,company,Ospapharm
+man_884,FALSE,TRUE,company,Osteo test lab
+man_885,FALSE,TRUE,company,OTACI Pharma
+man_886,FALSE,TRUE,company,Otsuka
+man_887,FALSE,TRUE,company,Ottoman ( Royal For Herbs )
+man_888,FALSE,TRUE,company,Overseas
+man_889,FALSE,TRUE,company,Pan Pharma
+man_890,FALSE,TRUE,company,Panax Pharm
+man_891,FALSE,TRUE,company,Park Davis
+man_892,FALSE,TRUE,company,ParkVille
+man_893,FALSE,TRUE,company,Pasteur Lab./Egypt
+man_894,FALSE,TRUE,company,Pearla Pharm
+man_895,FALSE,TRUE,company,Pearla pharm co.
+man_896,FALSE,TRUE,company,Pedia Pharma
+man_897,FALSE,TRUE,company,Peire fabre
+man_898,FALSE,TRUE,company,Penta Pharm
+man_899,FALSE,TRUE,company,Penta Pharma
+man_900,FALSE,TRUE,company,Perfecta
+man_901,FALSE,TRUE,company,Pfizer
+man_902,FALSE,TRUE,company,Pfizer/Nile
+man_903,FALSE,TRUE,company,Pharaonia
+man_904,FALSE,TRUE,company,Pharaonia
+man_905,FALSE,TRUE,company,Pharco
+man_906,FALSE,TRUE,company,Pharco/ZAD Ind. Ph.
+man_907,FALSE,TRUE,company,Pharma Biologica
+man_908,FALSE,TRUE,company,Pharma Care
+man_909,FALSE,TRUE,company,Pharma company for medica rabi/Medica
+man_910,FALSE,TRUE,company,Pharma cure
+man_911,FALSE,TRUE,company,Pharma De France
+man_912,FALSE,TRUE,company,Pharma Green
+man_913,FALSE,TRUE,company,Pharma Medica
+man_914,FALSE,TRUE,company,Pharma Mix
+man_915,FALSE,TRUE,company,Pharma moon
+man_916,FALSE,TRUE,company,Pharma net
+man_917,FALSE,TRUE,company,Pharma nord
+man_918,FALSE,TRUE,company,Pharma Overseas
+man_919,FALSE,TRUE,company,Pharma see
+man_920,FALSE,TRUE,company,Pharma star
+man_921,FALSE,TRUE,company,PharmaCare
+man_922,FALSE,TRUE,company,Pharmacell
+man_923,FALSE,TRUE,company,Pharmaceutical
+man_924,FALSE,TRUE,company,Pharmacia
+man_925,FALSE,TRUE,company,Pharmacia & Uphohn
+man_926,FALSE,TRUE,company,PharmaClinic
+man_927,FALSE,TRUE,company,Pharmacon
+man_928,FALSE,TRUE,company,Pharmacosmos
+man_929,FALSE,TRUE,company,Pharmadas
+man_930,FALSE,TRUE,company,PharmaGlobe
+man_931,FALSE,TRUE,company,PharmaGreen
+man_932,FALSE,TRUE,company,pharmalink
+man_933,FALSE,TRUE,company,PharmaNet
+man_934,FALSE,TRUE,company,PharmaRight
+man_935,FALSE,TRUE,company,Pharmascience
+man_936,FALSE,TRUE,company,Pharmaton
+man_937,FALSE,TRUE,company,PharmaVera
+man_938,FALSE,TRUE,company,PharmaVision
+man_939,FALSE,TRUE,company,PHARMED HEALTHCARE
+man_940,FALSE,TRUE,company,Pharmix
+man_941,FALSE,TRUE,company,PHAROPHARMA EGYPT
+man_942,FALSE,TRUE,company,Philo pharm
+man_943,FALSE,TRUE,company,Phoenix Pharma
+man_944,FALSE,TRUE,company,PIC
+man_945,FALSE,TRUE,company,Pierre fabre
+man_946,FALSE,TRUE,company,PierreFabre
+man_947,FALSE,TRUE,company,Pillar Surgical inc. USA
+man_948,FALSE,TRUE,company,Pixel Pharma
+man_949,FALSE,TRUE,company,Plant Pharma
+man_950,FALSE,TRUE,company,Praim international
+man_951,FALSE,TRUE,company,Prettier
+man_952,FALSE,TRUE,company,Proctor&Gamble
+man_953,FALSE,TRUE,company,Prodes
+man_954,FALSE,TRUE,company,Prorenal
+man_955,FALSE,TRUE,company,PurexHealthCare
+man_956,FALSE,TRUE,company,Purity Pharma
+man_957,FALSE,TRUE,company,Pyramides
+man_958,FALSE,TRUE,company,Pyramides
+man_959,FALSE,TRUE,company,Quadra Pharma
+man_960,FALSE,TRUE,company,Quali Beauty egyp./Brother Ph.
+man_961,FALSE,TRUE,company,Queen Pharma
+man_962,FALSE,TRUE,company,QueenPharma
+man_963,FALSE,TRUE,company,Queisser Pharma
+man_964,FALSE,TRUE,company,Ramacin
+man_965,FALSE,TRUE,company,Ramco
+man_966,FALSE,TRUE,company,Ramco/Mylan
+man_967,FALSE,TRUE,company,Rameda
+man_968,FALSE,TRUE,company,Ranbaxy
+man_969,FALSE,TRUE,company,RAND pharm
+man_970,FALSE,TRUE,company,Rashdeen pharma
+man_971,FALSE,TRUE,company,Ratco
+man_972,FALSE,TRUE,company,Rawad Pharma
+man_973,FALSE,TRUE,company,Razy
+man_974,FALSE,TRUE,company,Reckit &Colman UK
+man_975,FALSE,TRUE,company,Reckitt/united Partner egypt
+man_976,FALSE,TRUE,company,Recordati
+man_977,FALSE,TRUE,company,Rector pharma
+man_978,FALSE,TRUE,company,Regal Pharm
+man_979,FALSE,TRUE,company,Rene M. Caisse
+man_980,FALSE,TRUE,company,Repharm
+man_981,FALSE,TRUE,company,Repharma
+man_982,FALSE,TRUE,company,Revital
+man_983,FALSE,TRUE,company,Rexcel
+man_984,FALSE,TRUE,company,Rexcel/Amoun
+man_985,FALSE,TRUE,company,RhinoPharm
+man_986,FALSE,TRUE,company,Rhone Polanc
+man_987,FALSE,TRUE,company,Rich Cosmetics
+man_988,FALSE,TRUE,company,Richelet
+man_989,FALSE,TRUE,company,Rim
+man_990,FALSE,TRUE,company,RIRI
+man_991,FALSE,TRUE,company,Ritter-Pharmagin
+man_992,FALSE,TRUE,company,Rival Pharma
+man_993,FALSE,TRUE,company,RivaPharm
+man_994,FALSE,TRUE,company,Road (RPIC)
+man_995,FALSE,TRUE,company,Roba
+man_996,FALSE,TRUE,company,Robins
+man_997,FALSE,TRUE,company,Roche
+man_998,FALSE,TRUE,company,Rogal
+man_999,FALSE,TRUE,company,Rolab Natural Food
+man_1000,FALSE,TRUE,company,RonyPharm
+man_1001,FALSE,TRUE,company,Rotabiogen
+man_1002,FALSE,TRUE,company,Rovamed pharma
+man_1003,FALSE,TRUE,company,Roventis Pharrma
+man_1004,FALSE,TRUE,company,Rowad Pharma
+man_1005,FALSE,TRUE,company,Rowad Wagner
+man_1006,FALSE,TRUE,company,ROYAL GROUP EGYPT
+man_1007,FALSE,TRUE,company,RPG-Pharmaceuticals
+man_1008,FALSE,TRUE,company,RPH Pharmaceuticals
+man_1009,FALSE,TRUE,company,RPIC
+man_1010,FALSE,TRUE,company,Russel
+man_1011,FALSE,TRUE,company,Rwa Pharma
+man_1012,FALSE,TRUE,company,S.I.P.E.C./ZAD
+man_1013,FALSE,TRUE,company,"S.P.,Denamark"
+man_1014,FALSE,TRUE,company,Sabaa
+man_1015,FALSE,TRUE,company,Sabba
+man_1016,FALSE,TRUE,company,Sabona rheumatic relief co.
+man_1017,FALSE,TRUE,company,Safco/Healthy life
+man_1018,FALSE,TRUE,company,safe for pharma
+man_1019,FALSE,TRUE,company,Safty-Kinadi Kagaku
+man_1020,FALSE,TRUE,company,SAJA/Daiichi sankyo co. japan
+man_1021,FALSE,TRUE,company,Sakura/Brother Pharma
+man_1022,FALSE,TRUE,company,Sallam Pharma
+man_1023,FALSE,TRUE,company,Samyang
+man_1024,FALSE,TRUE,company,Sandoz
+man_1025,FALSE,TRUE,company,Sandoz Novartis
+man_1026,FALSE,TRUE,company,Sanofi Aventis
+man_1027,FALSE,TRUE,company,Sanofi-Aventis
+man_1028,FALSE,TRUE,company,SanofiAventis/Ramco
+man_1029,FALSE,TRUE,company,Sanofi-Winthrop
+man_1030,FALSE,TRUE,company,Santyeon-Finland/AMC
+man_1031,FALSE,TRUE,company,Sasamr-Health
+man_1032,FALSE,TRUE,company,Scantex Pharma
+man_1033,FALSE,TRUE,company,Schering
+man_1034,FALSE,TRUE,company,Schering /Sofeco
+man_1035,FALSE,TRUE,company,Schering-Plough
+man_1036,FALSE,TRUE,company,Schiff
+man_1037,FALSE,TRUE,company,Schwab/Marcyrl
+man_1038,FALSE,TRUE,company,Schwarz
+man_1039,FALSE,TRUE,company,Scientific group
+man_1040,FALSE,TRUE,company,Scope
+man_1041,FALSE,TRUE,company,Searle
+man_1042,FALSE,TRUE,company,Sedico
+man_1043,FALSE,TRUE,company,Seem
+man_1044,FALSE,TRUE,company,Sekem
+man_1045,FALSE,TRUE,company,SEPCO
+man_1046,FALSE,TRUE,company,SerioPharm
+man_1047,FALSE,TRUE,company,Serono
+man_1048,FALSE,TRUE,company,Serum international
+man_1049,FALSE,TRUE,company,Servier
+man_1050,FALSE,TRUE,company,Seven-Seas
+man_1051,FALSE,TRUE,company,Shalton/Mash
+man_1052,FALSE,TRUE,company,ShamPharma
+man_1053,FALSE,TRUE,company,Shanghai RAAS/Vacsera
+man_1054,FALSE,TRUE,company,Shelter/ Drug trading
+man_1055,FALSE,TRUE,company,Shifa
+man_1056,FALSE,TRUE,company,Shree Ganesh Pharm.
+man_1057,FALSE,TRUE,company,Shrouhal
+man_1058,FALSE,TRUE,company,Sigma
+man_1059,FALSE,TRUE,company,Sigma Tec
+man_1060,FALSE,TRUE,company,Sigma/Chemipharm
+man_1061,FALSE,TRUE,company,Sigma/Wassen
+man_1062,FALSE,TRUE,company,Simco
+man_1063,FALSE,TRUE,company,Sina Pharm
+man_1064,FALSE,TRUE,company,Sina/Health well
+man_1065,FALSE,TRUE,company,SinaCos/Roxen
+man_1066,FALSE,TRUE,company,SinaPharm
+man_1067,FALSE,TRUE,company,Sisu/GNP
+man_1068,FALSE,TRUE,company,SKF/Eipico
+man_1069,FALSE,TRUE,company,Sky trading & marketing
+man_1070,FALSE,TRUE,company,SM
+man_1071,FALSE,TRUE,company,Smart
+man_1072,FALSE,TRUE,company,Smart/Artef
+man_1073,FALSE,TRUE,company,Smart-Royal
+man_1074,FALSE,TRUE,company,SMC/germany
+man_1075,FALSE,TRUE,company,Smith & Nephew
+man_1076,FALSE,TRUE,company,Sobol El Dawa
+man_1077,FALSE,TRUE,company,Sofi Pharma
+man_1078,FALSE,TRUE,company,Solco Europe
+man_1079,FALSE,TRUE,company,Solvay
+man_1080,FALSE,TRUE,company,Solvay
+man_1081,FALSE,TRUE,company,Solvay Pharmaceuticals
+man_1082,FALSE,TRUE,company,Sonesta
+man_1083,FALSE,TRUE,company,Sparkle
+man_1084,FALSE,TRUE,company,SPECO
+man_1085,FALSE,TRUE,company,Spectra
+man_1086,FALSE,TRUE,company,Spectrum Design Medical
+man_1087,FALSE,TRUE,company,Spimaco-KSA
+man_1088,FALSE,TRUE,company,Squibb
+man_1089,FALSE,TRUE,company,Stada
+man_1090,FALSE,TRUE,company,StaffordUK/EVA
+man_1091,FALSE,TRUE,company,Star Pharmaceutical
+man_1092,FALSE,TRUE,company,Star Z
+man_1093,FALSE,TRUE,company,Sterop
+man_1094,FALSE,TRUE,company,Stiefel-USA
+man_1095,FALSE,TRUE,company,Suecal
+man_1096,FALSE,TRUE,company,Sun Natural
+man_1097,FALSE,TRUE,company,Sunny-Canada
+man_1098,FALSE,TRUE,company,Super Trade
+man_1099,FALSE,TRUE,company,Swanco
+man_1100,FALSE,TRUE,company,SwedLife H.P
+man_1101,FALSE,TRUE,company,Switherland-Eagles
+man_1102,FALSE,TRUE,company,Synergy
+man_1103,FALSE,TRUE,company,Syntex
+man_1104,FALSE,TRUE,company,Synthelabo
+man_1105,FALSE,TRUE,company,Synthex
+man_1106,FALSE,TRUE,company,synthon hispania
+man_1107,FALSE,TRUE,company,T3A PHARMA
+man_1108,FALSE,TRUE,company,TA Pharma
+man_1109,FALSE,TRUE,company,Tabuk ksa
+man_1110,FALSE,TRUE,company,Tadawi
+man_1111,FALSE,TRUE,company,Taerim/UPC
+man_1112,FALSE,TRUE,company,Tag pharm
+man_1113,FALSE,TRUE,company,Takeda
+man_1114,FALSE,TRUE,company,Tanmeia TG group
+man_1115,FALSE,TRUE,company,Technomad
+man_1116,FALSE,TRUE,company,TechnoPharma
+man_1117,FALSE,TRUE,company,tedec meiji farma
+man_1118,FALSE,TRUE,company,Teijin Japan
+man_1119,FALSE,TRUE,company,TeoPharma
+man_1120,FALSE,TRUE,company,TetraPharm
+man_1121,FALSE,TRUE,company,TetraPharma
+man_1122,FALSE,TRUE,company,The Arab Company
+man_1123,FALSE,TRUE,company,The United company
+man_1124,FALSE,TRUE,company,"Thea,Germany"
+man_1125,FALSE,TRUE,company,Therapy incorporation
+man_1126,FALSE,TRUE,company,Thilo USA
+man_1127,FALSE,TRUE,company,Tiba Pharmaceuticals
+man_1128,FALSE,TRUE,company,Tischcon
+man_1129,FALSE,TRUE,company,Top pharma
+man_1130,FALSE,TRUE,company,Top Z. Pharma
+man_1131,FALSE,TRUE,company,Top Zed Pharma
+man_1132,FALSE,TRUE,company,TopPharm
+man_1133,FALSE,TRUE,company,TopPharma
+man_1134,FALSE,TRUE,company,TPI Pharmaceuticals
+man_1135,FALSE,TRUE,company,Trend Pharmaceuticals
+man_1136,FALSE,TRUE,company,Trendpharm
+man_1137,FALSE,TRUE,company,TRI-G
+man_1138,FALSE,TRUE,company,Triscom Holand/import. By General technology
+man_1139,FALSE,TRUE,company,Tri-Star
+man_1140,FALSE,TRUE,company,Trust medical
+man_1141,FALSE,TRUE,company,TrustDelta
+man_1142,FALSE,TRUE,company,U.K. company
+man_1143,FALSE,TRUE,company,U.P. Pharma
+man_1144,FALSE,TRUE,company,U.P.Pharma
+man_1145,FALSE,TRUE,company,UCB Health Care
+man_1146,FALSE,TRUE,company,UCB/Glaxo
+man_1147,FALSE,TRUE,company,Ultra care
+man_1148,FALSE,TRUE,company,Ultra Pharm
+man_1149,FALSE,TRUE,company,UltraPharm
+man_1150,FALSE,TRUE,company,UltraPharm/VitaPharm
+man_1151,FALSE,TRUE,company,Underm/Mash
+man_1152,FALSE,TRUE,company,Uni pharma
+man_1153,FALSE,TRUE,company,Unipharma
+man_1154,FALSE,TRUE,company,Unipharma Egypt Ph.
+man_1155,FALSE,TRUE,company,UniPharma/IbnSina
+man_1156,FALSE,TRUE,company,Uniswab
+man_1157,FALSE,TRUE,company,United Allam Factory
+man_1158,FALSE,TRUE,company,United media Pharm
+man_1159,FALSE,TRUE,company,United Medica
+man_1160,FALSE,TRUE,company,United Pharma international
+man_1161,FALSE,TRUE,company,United-Pharma Jordan/Modern Pharma
+man_1162,FALSE,TRUE,company,Universal nutrition
+man_1163,FALSE,TRUE,company,Unizone/ Beauty & beyond
+man_1164,FALSE,TRUE,company,Upi Pharm/El-Obor
+man_1165,FALSE,TRUE,company,Upsa/BMS
+man_1166,FALSE,TRUE,company,USC
+man_1167,FALSE,TRUE,company,Utopia
+man_1168,FALSE,TRUE,company,Vacsera
+man_1169,FALSE,TRUE,company,Vacsera for MultiPharma
+man_1170,FALSE,TRUE,company,Valeant Pharmaceuticals
+man_1171,FALSE,TRUE,company,Valera
+man_1172,FALSE,TRUE,company,Valley
+man_1173,FALSE,TRUE,company,Venosta
+man_1174,FALSE,TRUE,company,Vertex
+man_1175,FALSE,TRUE,company,Veto pharm/BioPharm
+man_1176,FALSE,TRUE,company,Vita pharm
+man_1177,FALSE,TRUE,company,Vita Vigor
+man_1178,FALSE,TRUE,company,Vitabiotics
+man_1179,FALSE,TRUE,company,Vitamec USA
+man_1180,FALSE,TRUE,company,VitaPharm
+man_1181,FALSE,TRUE,company,VitaVigor
+man_1182,FALSE,TRUE,company,VitoPharm
+man_1183,FALSE,TRUE,company,VitoPharm/GefPharm
+man_1184,FALSE,TRUE,company,Vitro-Bio
+man_1185,FALSE,TRUE,company,Wabosan
+man_1186,FALSE,TRUE,company,Wassen
+man_1187,FALSE,TRUE,company,Wasserburger / Pharmakon
+man_1188,FALSE,TRUE,company,Weiser
+man_1189,FALSE,TRUE,company,Wellcare Labs.
+man_1190,FALSE,TRUE,company,Wellcome
+man_1191,FALSE,TRUE,company,Western Ph. Ind.
+man_1192,FALSE,TRUE,company,Western Union Pharmaceuticals
+man_1193,FALSE,TRUE,company,Willmr
+man_1194,FALSE,TRUE,company,Winthrop
+man_1195,FALSE,TRUE,company,Wockhardt
+man_1196,FALSE,TRUE,company,World Pharma
+man_1197,FALSE,TRUE,company,Wyeth Ayrest USA
+man_1198,FALSE,TRUE,company,X vactor
+man_1199,FALSE,TRUE,company,XceedPharma
+man_1200,FALSE,TRUE,company,Zad Pharma
+man_1201,FALSE,TRUE,company,Zad/Mepaco
+man_1202,FALSE,TRUE,company,Zeta Pharma

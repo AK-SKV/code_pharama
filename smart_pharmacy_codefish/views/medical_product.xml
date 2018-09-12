@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<odoo>
+    <!-- TODO: put here a reminder on what to do at the first edition -->
+    <record id="medical_product_tree_view" model="ir.ui.view">
+        <field name="name">medicla.products.tree.view</field>
+        <field name="model">product.template</field>
+        <field name="view_type">tree</field>
+        <field name="priority">100</field>
+        <field name="inherit_id" ref=""/>
+        <field name="arch" type="xml">
+            <tree string="Medicines">
+                <field name="image" nolabel="1" widget="image" class="oe_right oe_avatar" string="Image" height="40px"/>
+                <field name="pharmacy_product_type"/>
+                <field name="name" string="Medicine Trade Name"/>
+                <field name="generic_name"/>
+                <field name="manufacture"/>
+                <field name="list_price"/>
+                <field name="standard_price"/>
+                <field name="categ_id"/>
+                <field name="qty_available"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="medicines_form_view" model="ir.ui.view">
+        <field name="name">medicla.products.form.view</field>
+        <field name="model">product.template</field>
+        <field name="view_type">form</field>
+                <field name="priority">100</field>
+        <field name="inherit_id" ref=""/>
+        <field name="arch" type="xml">
+            <form string="Medicines">
+                <sheet>
+                    <field name="id" invisible="True"/>
+                    <div class="oe_button_box" name="button_box">
+                        <button name="toggle_active" type="object" class="oe_stat_button" icon="fa-archive">
+                            <field name="active" widget="boolean_button" options="{&quot;terminology&quot;: &quot;archive&quot;}"/>
+                        </button>
+                    </div>
+                    <field name="image_medium" widget="image" class="oe_avatar"/>
+                    <div class="oe_title">
+
+                        <h1><field name="name" placeholder="Medicine Trade Name"/></h1>
+                        <h3><field name="generic_name" placeholder="Generic Name"/></h3>
+                        <h3><field name="type" /></h3>
+
+                         <div name="options" groups="base.group_user">
+                            <div>
+                                <field name="sale_ok"/>
+                                <label for="sale_ok"/>
+                            </div>
+                            <div>
+                                <field name="purchase_ok"/>
+                                <label for="purchase_ok" />
+                            </div>
+                             <div>
+                                 <field name="is_pharmacy" invisible="0" />
+                                 <label for="is_pharmacy" invisible="0"/>
+                             </div>
+                        </div>
+                     </div>
+                    <notebook>
+                        <page string="Medical Information" attrs="{'invisible':[('type', '=', 'service')]}">
+                            <group>
+                                <group>
+                                    <field name="origin"/>
+                                    <field name="form"/>
+                                    <field name="disease" widget="many2many_tags"/>
+
+                                </group>
+                                <group string="Dosage">
+				                    <label for="dosage"/>
+                                    <div>
+                                        <field name="dosage" placeholder="Dosage" class="oe_inline"/>
+                                        <field name="dosage_uom" placeholder="Unit" class="oe_inline"/>
+                                    </div>
+                                    <label for="dosage_every"/>
+                                    <div>
+                                        <field name="dosage_every" string="Every" class="oe_inline"/>
+							            <field name="every_uom" placeholder="Day" class="oe_inline"/>
+                                    </div>
+                                </group>
+
+                            </group>
+                            <group name="formulations_and_content">
+                                <separator string="Formulations and Content"/>
+                                    <field name="formulations_and_content" colspan="4" nolabel="1"
+                                           widget="one2many_list" string="Formulations and Content">
+                                        <tree editable="bottom">
+                                            <field name="formulations_type"/>
+                                            <field name="content"/>
+                                            <field name="uom_id"/>
+                                        </tree>
+                                    </field>
+                            </group>
+                        </page>
+                        <page string="General Information">
+                           <group>
+                                <group>
+
+                                    <field name="pharmacy_product_type"
+                                           attrs="{'invisible':[('type', '=', 'service')]}"/>
+                                    <field name="manufacture" attrs="{'invisible':[('type', '=', 'service')]}"/>
+                                    <field name="categ_id"/>
+                                </group>
+                                <group>
+                                    <field name="list_price"/>
+                                    <field name="standard_price"/>
+                                </group>
+
+                           </group>
+                            <group>
+                                   <separator string="Vendors"/>
+                                    <field name="seller_ids" colspan="4" nolabel="1"
+                                           context="{'default_product_tmpl_id': context.get('product_tmpl_id', active_id)}"/>
+                               </group>
+                        </page>
+
+                        <page string="Inventory">
+                            <group>
+                                <group>
+                                    <field name="tracking" widget="radio" default="lot" invisible="1"/>
+                                    <field name="barcode"/>
+                                </group>
+                                <group>
+                                    <label string="Product Shelf Life Time"/>
+                                    <div class="oe_inline">
+                                    <field name="life_time" attrs="{'invisible':[('type', '=', 'service')]}"/> Day(s)
+                                    </div>
+                                    <label string="Product Use Time"/>
+                                    <div class="oe_inline">
+                                    <field name="use_time" attrs="{'invisible':[('type', '=', 'service')]}"/> Day(s)
+                                    </div>
+                                    <label string="Product Removal Time"/>
+                                    <div class="oe_inline">
+                                    <field name="removal_time" attrs="{'invisible':[('type', '=', 'service')]}"/> Day(s)
+                                    </div>
+                                    <label string="Product Alert Time"/>
+                                    <div class="oe_inline">
+                                   <field name="alert_time" attrs="{'invisible':[('type', '=', 'service')]}"/> Day(s)
+                                    </div>
+                                </group>
+                            </group>
+                            <group name="packaging" string="Packaging" colspan="4" attrs="{'invisible':[('type', 'not in', ['product', 'consu'])]}" groups="product.group_stock_packaging">
+                        <field name="packaging_ids" nolabel="1"/>
+                    </group>
+                        </page>
+                    </notebook>
+
+
+
+                </sheet>
+                    <div class="oe_chatter">
+                    <field name="message_follower_ids" widget="mail_followers"/>
+                    <field name="message_ids" widget="mail_thread"/>
+                </div>
+            </form>
+        </field>
+    </record>
+
+    <record id="medical_product_form_view" model="ir.ui.view">
+        <field name="name">product.medical.form</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="product.product_template_form_view"/>
+        <field name="arch" type="xml">
+            <xpath expr="//notebook" position="inside">
+                <page string="Medical" >
+                    <field name="is_pharmacy" />
+                    <group>
+                            <field name="dosage" readonly="1"/>
+                            <field name="dosage_uom" readonly="1"/>
+                            <field name="dosage_every" readonly="1"/>
+                            <field name="every_uom" readonly="1"/>
+                        </group>
+                </page>
+            </xpath>
+        </field>
+    </record>
+
+
+    <record id="action_medicines_form_view" model="ir.actions.act_window">
+        <field name="name">Pharmacy Product</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">product.template</field>
+        <field name="context">{'search_default_filter_to_is_pharmacy': True}</field>
+        <field name="domain">[('is_pharmacy', '=', True)]</field>
+        <field name="view_type">form</field>
+        <field name="view_mode">tree,form</field>
+         </record>
+
+        <record id="views_medicines_tree_view" model="ir.actions.act_window.view">
+        <field name="act_window_id" ref="action_medicines_form_view"/>
+        <field name="sequence">1</field>
+        <field name="view_mode">tree</field>
+        <field name="view_id" ref="medical_product_tree_view"/>
+    </record>
+
+    <record id="views_medicines_form_view" model="ir.actions.act_window.view">
+        <field name="act_window_id" ref="action_medicines_form_view"/>
+        <field name="sequence">2</field>
+        <field name="view_mode">form</field>
+        <field name="view_id" ref="medicines_form_view"/>
+    </record>
+
+
+
+    <menuitem action="action_medicines_form_view"
+              name="Smart Pharmacy"
+              id="menu_action_pharmacy_form"
+              parent=""
+              sequence="10"
+              groups=""
+              web_icon="smart_pharmacy_codefish,static/description/icon.png"/>
+
+
+    <menuitem action="action_medicines_form_view"
+              name="Pharmacy Product"
+              id="menu_action_medicines_form"
+              parent="menu_action_pharmacy_form"
+              sequence="10"
+              groups=""
+
+    />
+
+</odoo>

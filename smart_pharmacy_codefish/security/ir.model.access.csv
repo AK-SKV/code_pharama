@@ -1,0 +1,7 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_formulations_and_content,access_formulations_and_content,model_formulations_and_content,,1,1,1,1
+access_formulations_type,access_formulations_type,model_formulations_type,,1,1,1,1
+access_medical_form,access_medical_form,model_medical_form,,1,1,1,1
+access_disease_categories,access_disease_categories,model_disease_categories,,1,1,1,1
+access_disease,access_disease,model_disease,,1,1,1,1
+access_medical_patient,access_medical_patient,model_medical_patient,,1,1,1,1
