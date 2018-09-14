@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="dynamic_barcode_labels_layout">
+        <!-- Multicompany -->
+        <t t-if="o and 'company_id' in o">
+            <t t-set="company" t-value="o.company_id" />
+        </t>
+        <t t-if="not o or not 'company_id' in o">
+            <t t-set="company" t-value="res_company" />
+        </t>
+        <div class="article">
+          <t t-raw="0" />
+        </div>
+    </template>
+
+    <template id="report_barcode_labels">
+        <t t-foreach="docs" t-as="product">
+            <t t-call="dynamic_barcode_labels.dynamic_barcode_labels_layout">
+                <div class="page" align="center">
+
+                    <!-- Company Name -->
+                    <div t-if="config_rec.company_name" t-attf-style="color:black;font-size:#{config_rec.company_name_size or '10px'}">
+                        <span t-field="config_rec.company_name" />
+                    </div>
+
+                    <!-- Barcode -->
+                    <div t-if="config_rec.barcode"
+                        style="color:black;">
+                        <img t-att-src="'/report/barcode/?type=%s&amp;value=%s&amp;width=%s&amp;height=%s&amp;humanreadable=%s' %(data['form']['barcode_type'], get_barcode_value(product[0], data), int(data['form']['display_width']), int(data['form']['display_height']), is_humanreadable(data))"/>
+                    </div>
+
+                    <!-- Product Name -->
+                    <div t-if="config_rec.product_name" t-attf-style="color:black;font-size:#{config_rec.product_name_size or '10px'}" align="center">
+                        <span t-field="product[0].name" />
+                    </div>
+
+                    <!-- Revision -->
+                    <div t-if="config_rec.revision" t-attf-style="color:black;font-size:#{config_rec.revision_size or '10px'}" align="center">
+                        Rev <span t-esc="product[1]" />
+                    </div>
+
+                    <!-- Description -->
+                    <div t-if="config_rec.product_desc" t-attf-style="color:black;font-size:#{config_rec.product_desc_size or '10px'}" align="center">
+                        <span t-field="product[0].description" />
+                    </div>
+
+                    <!-- Product Attributes -->
+                    <div t-if="config_rec.product_variant" t-attf-style="color:black;font-size:#{config_rec.product_variant_size or '10px'}" align="center">
+                        <span t-esc="product[3]" />
+                    </div>
+
+                    <!-- Product Lot -->
+                    <div t-if="config_rec.lot" align="center">
+                        <span t-esc="product[2]" />
+                    </div>
+
+                    <!-- Product Default Code -->
+                    <div t-if="config_rec.product_code" t-attf-style="color:black;font-size:#{config_rec.product_code_size or '10px'}" align="center">
+                        <span t-field="product[0].default_code" />
+                    </div>
+
+
+                    <!-- Price -->
+                    <div t-if="config_rec.price_display" t-attf-style="color:black;font-size:#{config_rec.price_display_size or '10px'}">
+                        <t
+                            t-if="data['form']['currency_position'] == 'before'">
+                            <t t-if="data['form'].get('symbol')">
+                                <span t-esc="data['form']['symbol']" />
+                            </t>
+                        </t>
+                        <span t-field="product[0].lst_price" />
+                        <t
+                            t-if="data['form']['currency_position'] == 'after'">
+                            <t t-if="data['form'].get('symbol')">
+                                <span t-esc="data['form']['symbol']" />
+                            </t>
+                        </t>
+                    </div>
+                </div>
+            </t>
+        </t>
+    </template>
+</odoo>
