@@ -4,6 +4,7 @@ odoo.define('pos_retail.big_data', function (require) {
     var _t = core._t;
     var rpc = require('pos.rpc');
     var ParameterDB = require('pos_retail.parameter');
+    var ParameterDB = require('pos_retail.parameter');
     var session = require('web.session');
     var change = require('pos_retail.pos_chanel');
 

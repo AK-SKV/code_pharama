@@ -1515,4 +1515,6 @@ odoo.define('pos_retail.model', function (require) {
     } catch (e) {
         console.error('->> version now is 10');
     }
+
+
 });

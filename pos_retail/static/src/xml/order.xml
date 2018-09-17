@@ -17,12 +17,7 @@
                 </t>
                 <t t-if="widget.pos.config.allow_qty">
                     <button class="mode-button" data-mode='quantity'>Qty
-                        <li>
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                q
-                            </span>
-                        </li>
+
                     </button>
                 </t>
                 <t t-if="!widget.pos.config.allow_qty">
@@ -41,12 +36,7 @@
                 </t>
                 <t t-if="widget.pos.config.allow_discount">
                     <button class="mode-button" data-mode='discount'>Disc
-                        <li>
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                d
-                            </span>
-                        </li>
+
                     </button>
                 </t>
                 <t t-if="!widget.pos.config.allow_discount">
@@ -65,12 +55,7 @@
                 </t>
                 <t t-if="widget.pos.config.allow_price">
                     <button class="mode-button" data-mode='price'>Price
-                        <li>
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                p
-                            </span>
-                        </li>
+
                     </button>
                 </t>
                 <t t-if="!widget.pos.config.allow_price">
@@ -108,17 +93,11 @@
                     <i class='fa fa-user' />
                     <t t-if="widget.pos.get_client()">
                         <t t-esc="widget.pos.get_client().name" />
-                        <span class="button_key" style="float:right">
-                            <i class="fa fa-keyboard"></i>
-                            c
-                        </span>
+
                     </t>
                     <t t-if="!widget.pos.get_client()">
                         Customer
-                        <span class="button_key" style="float:right">
-                            <i class="fa fa-keyboard"></i>
-                            c
-                        </span>
+
                     </t>
                 </button>
             </t>
@@ -129,17 +108,11 @@
                         <t t-esc="widget.pos.get_client().name" />
                         <div>[Credit] <t class="" t-esc="widget.pos.get_balance(widget.pos.get_client())" /></div>
                         <div>[Wallet] <t class="" t-esc="widget.pos.get_wallet(widget.pos.get_client())" /></div>
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            c
-                        </span>
+
                     </t>
                     <t t-if="!widget.pos.get_client()">
                         Customer
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            c
-                        </span>
+
                     </t>
                 </button>
             </t>
@@ -151,10 +124,7 @@
                         <i class='fa fa-chevron-right' />
                     </div>
                     Payment
-                    <span class="button_key" style="float:right">
-                        <i class="fa fa-keyboard"></i>
-                        enter
-                    </span>
+
                 </button>
             </t>
             <t t-if="!widget.pos.config.allow_payment">
@@ -163,10 +133,7 @@
                         <i class='fa fa-chevron-right' />
                     </div>
                     Payment
-                    <span class="button_key" style="float:right">
-                        <i class="fa fa-keyboard"></i>
-                        enter
-                    </span>
+
                 </button>
             </t>
         </t>

@@ -6,9 +6,13 @@
             <t t-if="order.formatted_validation_date">
                 <div class="pos-center-align"><t t-esc="order.formatted_validation_date"/> | <t t-esc="order.name"/></div>
             </t>
+            <div style="width: 45%;/* float: left; */margin-left: auto;margin-right: auto;">
+                        <img src='/web/binary/company_logo' style="width:100%"/>
+                    </div>
             <t t-if="order.date">
                 <div class="pos-center-align"><t t-esc="order.date"/> | <t t-esc="order.name"/></div>
             </t>
+
         </t>
         <t t-jquery="table[class*='receipt-orderlines']" t-operation="replace">
             <t t-if="widget.pos.config.category_wise_receipt">

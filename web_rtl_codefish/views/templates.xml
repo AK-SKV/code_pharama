@@ -12,11 +12,7 @@
                 <t t-set="body_classname" t-value="lang_direction + ' ' + (body_classname or '')"/>
             </xpath>
         </template>
-        <template id="rtl_assets_backend" name="rtl_pos_auto_invoice assets" inherit_id="point_of_sale.assets">
-        <xpath expr="." position="inside">
-			<link t-if="lang_direction == 'rtl'" rel="stylesheet" href="/web_rtl_codefish/static/src/css/rtl.css"/>
-			</xpath>
-    </template>
+
 
     </data>
 </openerp>

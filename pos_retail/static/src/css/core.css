@@ -28,6 +28,7 @@
 }
 .pos .search_products {
     position: unset;
+    width: 90%;
 }
 .pos .search_products >input{
     width: 350px;
@@ -44,6 +45,7 @@
 .pos .clientlist-screen .client-detail > .label {
     color: black;
     text-align: left;
+    font-size: 13px;
 }
 .pos .product-list {
     padding: 2px;
@@ -129,6 +131,7 @@
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background: #0b2e59;
 }
 .pos .categories {
     border-bottom: solid 1px rgb(110, 200, 155);
@@ -783,10 +786,8 @@
 }
 .pos .notification {
     top: 5px;
-    border: 1px solid #FFF;
     right: 10px;
-    font-size: 12px;
-    background: #f44336;
+    font-size: 16px;
     color: #FFFFFF;
     min-width: 20px;
     padding: 3px 5px;
@@ -795,6 +796,7 @@
     text-align: center;
     line-height: 19px;
     vertical-align: middle;
+
 }
 .pos .orderline_image {
     width: 30px;
@@ -843,6 +845,7 @@
     font-style: normal;
     font-weight: bold;
     font-size: 12px;
+    text-align: center;
 }
 .screen .left-content.pc40 {
     right: 80%;
@@ -993,6 +996,8 @@
 }
 .pos .order .orderline {
     border-top: solid 1px rgb(110, 200, 155);
+    height: auto;
+    background: beige;
 }
 .pos .order .orderline:hover {
     background-color: darkgray;
@@ -1039,16 +1044,17 @@
     background-color: white;
     height: 50px;
     padding-left: 5px;
+    padding-top: 2px;
 }
 .pos .quickly_icon {
     cursor: pointer;
     border-radius: 4px;
-    color: #875A7B;
+    color: #0b2e59;
     text-align: center;
-    font-size: 14px;
+    font-size: 20px;
 }
 .pos .quickly_icon:hover {
-    background: #875A7B;
+    background: #12ae8e;
     color: white;
 }
 .pos .product-list {
@@ -1087,6 +1093,7 @@
     margin: 2px !important;
     border: 1px solid lightsteelblue;
     border-bottom-width: 1px;
+    color: white;
 }
 .pos .left_button .product-name {
     background: bottom;
@@ -1100,7 +1107,7 @@
     padding-top: 1px;
     font-size: 18px;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 .pos .button_text {
@@ -1192,9 +1199,10 @@
     background: royalblue;
 }
 .pos .order .orderline.selected {
-    background: #875A7B;
+    background: #22527b;
     color: white;
     font-size: 20px;
+    height: auto;
 }
 .pos .order .orderline.selected .info-list {
     color: white;
@@ -1209,7 +1217,7 @@
     color: white;
 }
 .pos .pos-topheader {
-    background: #875A7B;
+    background: #12ae8e;
 }
 .pos .pos-rightheader {
     left: 320px;
@@ -1249,3 +1257,25 @@
 .pos section button {
     font-size: 16px;
 }
+
+.pos .oe_statu .oe_green, .pos .oe_icon.oe_green{
+    color: white;
+}
+
+.pos a{
+    color: white;
+}
+
+.pos .pos-rightheader .header-button{
+    color: white;
+}
+
+.paymentmethods{
+    margin: unset;
+}
+
+.pos .rightpane-header
+{
+    background: #0b2e59;
+}
+

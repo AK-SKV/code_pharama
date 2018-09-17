@@ -10,19 +10,13 @@
                     <t t-if="cashregister.journal.pos_method_type == 'default' or cashregister.journal.pos_method_type == 'return'">
                         <div class="btn btn-success paymentmethod" t-att-data-id="cashregister.journal_id[0]">
                             <t t-esc="cashregister.journal_id[1]" />
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                <t t-esc="index"/>
-                            </span>
+
                         </div>
                     </t>
                     <t t-if="cashregister.journal.pos_method_type != 'default'">
                         <div class="btn btn-success paymentmethod oe_hidden" t-att-data-id="cashregister.journal_id[0]">
                             <t t-esc="cashregister.journal_id[1]" />
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                <t t-esc="index"/>
-                            </span>
+
                         </div>
                     </t>
                     <t t-set='index' t-value="index + 1"/>
@@ -57,27 +51,19 @@
             <section style="padding-left: 15px">
                 <button class='button back'>
                     Back
-                    <span class="button_key">
-                        esc
-                    </span>
+
                 </button>
                 <button class='button button_left paid_full'>
                     Paid full
-                    <span class="button_key">
-                        f
-                    </span>
+
                 </button>
                 <button class='button button_bottom paid_partial'>
                     Partial pay
-                    <span class="button_key">
-                        p
-                    </span>
+
                 </button>
                 <button class='button next'>
                     Validate
-                    <span class="button_key">
-                        enter
-                    </span>
+
                 </button>
             </section>
         </t>
@@ -85,20 +71,14 @@
             <span class='button back'>
                 <i class='fa fa-angle-double-left'></i>
                 Back
-                <span class="button_key">
-                    <i class="fa fa-keyboard"></i>
-                    esc
-                </span>
+
             </span>
         </t>
         <t t-jquery="span[class*='button next']" t-operation="replace">
             <span class='button next'>
                 Validate
                 <i class='fa fa-angle-double-right'></i>
-                <span class="button_key">
-                    <i class="fa fa-keyboard"></i>
-                    enter
-                </span>
+
             </span>
         </t>
         <t t-jquery=".right-content" t-operation="append">
@@ -200,10 +180,7 @@
                     <span t-attf-class='product left_button send_invoice_email #{ widget.pos.get_order().is_email_invoice() ? "highlight" : ""} '>
                         <div class="product-name button_text">
                             Mail invoice
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                m
-                            </span>
+
                         </div>
                     </span>
                 </t>
@@ -212,17 +189,11 @@
                         <div class="product-name button_text">
                             <t t-if="!widget.pos.get_bus_location()">
                                 Lead team
-                                <span class="button_key">
-                                    <i class="fa fa-keyboard"></i>
-                                    l
-                                </span>
+
                             </t>
                             <t t-if="widget.pos.get_bus_location()">
                                 <t t-esc="widget.pos.get_bus_location()['user_id'][1]"/>
-                                <span class="button_key">
-                                    <i class="fa fa-keyboard"></i>
-                                    l
-                                </span>
+
                             </t>
                         </div>
                     </span>
@@ -230,28 +201,19 @@
                 <span class="product left_button signature_order">
                     <div class="product-name button_text">
                         Sign order
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            s
-                        </span>
+
                     </div>
                 </span>
                 <span class="product left_button add_note">
                     <div class="product-name button_text">
                         Change note
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            n
-                        </span>
+
                     </div>
                 </span>
                 <span class="product left_button input_voucher">
                     <div class="product-name button_text">
                         Voucher
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            v
-                        </span>
+
                     </div>
                 </span>
             </t>
@@ -261,17 +223,11 @@
                 <div class="product-name js_customer_name button_text">
                     <t t-if="widget.pos.get_client()">
                         <t t-esc="widget.pos.get_client().name" />
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            c
-                        </span>
+
                     </t>
                     <t t-if="!widget.pos.get_client()">
                         Customer
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            c
-                        </span>
+
                     </t>
                 </div>
             </span>
@@ -279,20 +235,14 @@
                 <span t-attf-class='product left_button add_credit #{ widget.pos.get_order().is_add_credit() ? "btn-success" : ""} '>
                     <div class="product-name button_text">
                         Add credit
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            d
-                        </span>
+
                     </div>
                 </span>
             </t>
             <span class="product left_button add_wallet">
                 <div class="product-name button_text">
                     Add wallet
-                    <span class="button_key">
-                        <i class="fa fa-keyboard"></i>
-                        w
-                    </span>
+
                 </div>
             </span>
         </t>
@@ -301,19 +251,12 @@
                 <span t-attf-class='product left_button js_invoice #{ widget.pos.get_order().is_to_invoice() ? "highlight" : ""} '>
                     <div class="product-name button_text">
                         Invoice
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            i
-                        </span>
+
                     </div>
                 </span>
                 <span t-attf-class='product left_button js_auto_register_payment #{ widget.pos.get_order().is_auto_register_payment() ? "highlight" : ""} '>
                     <div class="product-name button_text">
                         Auto reconcile
-                        <span class="button_key">
-                            <i class="fa fa-keyboard"></i>
-                            a
-                        </span>
                     </div>
                 </span>
             </t>

@@ -93,16 +93,10 @@
 
     <t t-extend="OrderSelectorWidget">
         <t t-jquery="i[class*='fa-plus']" t-operation="append">
-            <span class="button_key" style="color:white">
-                <i class="fa fa-keyboard"></i>
-                n
-            </span>
+
         </t>
         <t t-jquery="i[class*='fa-minus']" t-operation="append">
-            <span class="button_key" style="color:white">
-                <i class="fa fa-keyboard"></i>
-                r
-            </span>
+
         </t>
     </t>
 
@@ -410,52 +404,34 @@
                     <t t-if="widget.pos.config.quickly_buttons">
                         <span class="breadcrumb quickly_icon add_customer">
                             <i class='fa fa-user-plus'></i>
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                a
-                            </span>
+
                         </span>
                         <t t-if="widget.pos.config.product_operation">
                             <span class="breadcrumb quickly_icon add_product">
                                 <i class='fa fa-plus-circle'></i>
-                                <span class="button_key">
-                                    <i class="fa fa-keyboard"></i>
-                                    w
-                                </span>
+
                             </span>
                         </t>
                         <t t-if="widget.pos.config.quickly_payment_full">
                             <span class="breadcrumb quickly_icon quickly_payment">
                                 <i class='fa fa-cart-arrow-down'></i>
-                                <span class="button_key">
-                                    <i class="fa fa-keyboard"></i>
-                                    f
-                                </span>
+
                             </span>
                         </t>
                         <t t-if="widget.pos.config.lock_session">
                             <span class="breadcrumb quickly_icon lock_session">
                                 <i class='fa fa-lock' />
-                                <span class="button_key">
-                                    <i class="fa fa-keyboard"></i>
-                                    l
-                                </span>
+
                             </span>
                         </t>
                         <span class="breadcrumb quickly_icon daily_report">
                             <i class='fa fa-signal' />
-                            <span class="button_key">
-                                <i class="fa fa-keyboard"></i>
-                                s
-                            </span>
+
                         </span>
                         <t t-if="widget.pos.config.receipt_without_payment_template != 'none'">
                             <span class="breadcrumb quickly_icon print_receipt">
                                 <i class='fa fa-print' />
-                                <span class="button_key">
-                                    <i class="fa fa-keyboard"></i>
-                                    space
-                                </span>
+
                             </span>
                         </t>
                         <t t-if="widget.pos.config.allow_customer">

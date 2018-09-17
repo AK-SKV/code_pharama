@@ -36,7 +36,7 @@
     </t>
 
     <t t-extend="ClientDetails">
-        <t t-jquery="div[class*='client-details-left']" t-operation="append">
+            <t t-jquery="div[class*='client-details-left']" t-operation="append">
             <t t-if="partner.comment">
                 <div class='client-detail'>
                     <span class='label'>TIN</span>
